@@ -19,3 +19,4 @@
 **/*.log
 **/obsidian/Singleton*
 **/*-wal
+obsidian/
