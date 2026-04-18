@@ -1,3 +1,3 @@
-2026/04/17-23:28:48.992 116c Reusing MANIFEST /home/rubait/.config/obsidian/Local Storage/leveldb/MANIFEST-000001
-2026/04/17-23:28:49.003 116c Recovering log #3
-2026/04/17-23:28:49.012 116c Reusing old log /home/rubait/.config/obsidian/Local Storage/leveldb/000003.log 
+2026/04/18-12:02:07.998 9de5 Reusing MANIFEST /home/rubait/.config/obsidian/Local Storage/leveldb/MANIFEST-000001
+2026/04/18-12:02:08.009 9de5 Recovering log #3
+2026/04/18-12:02:08.009 9de5 Reusing old log /home/rubait/.config/obsidian/Local Storage/leveldb/000003.log 

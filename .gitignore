@@ -1,0 +1,7 @@
+# Ignore any temporary or backup files that might sneak in
+*.old
+*.bak
+*_orig_*
+*_replaced_*
+*_collision_*
+.DS_Store
