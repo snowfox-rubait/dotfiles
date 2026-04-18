@@ -1,0 +1,1034 @@
+INFO 4/8/2026, 6:36:47 PM  59  launch with argv [/usr/share/typora/Typora, --enable-wayland-ime, /home/rubait/scripts/task/README.md]
+INFO 4/8/2026, 6:36:47 PM  181  ------------------start------------------
+DEBUG 4/8/2026, 6:36:47 PM  196  before setting 
+DEBUG 4/8/2026, 6:36:47 PM  229  prepDatabase /home/rubait/.config/Typora/profile.data
+DEBUG 4/8/2026, 6:36:47 PM  236  prepDatabase /home/rubait/.config/Typora/history.data
+INFO 4/8/2026, 6:36:47 PM  241  OS is linux 6.19.10-arch1-1
+INFO 4/8/2026, 6:36:47 PM  241  launchFromDiffVersion, pre version is undefined
+INFO 4/8/2026, 6:36:47 PM  241  start LM in devVersion=false
+INFO 4/8/2026, 6:36:47 PM  253  overwriteThemeFolder
+DEBUG 4/8/2026, 6:36:47 PM  257  after setting 
+INFO 4/8/2026, 6:36:47 PM  257  typora version: 1.12.4
+DEBUG 4/8/2026, 6:36:47 PM  257  app.openFile
+INFO 4/8/2026, 6:36:47 PM  257  addRecentDocument
+DEBUG 4/8/2026, 6:36:48 PM  363  added recovery 1 /home/rubait/scripts/task/README.md  (0)
+INFO 4/8/2026, 6:36:48 PM  366  [watch L]
+DEBUG 4/8/2026, 6:36:48 PM  366  prepDatabase /home/rubait/.config/Typora/HY2uY8iK1k
+INFO 4/8/2026, 6:36:48 PM  370  no info
+INFO 4/8/2026, 6:36:48 PM  370  ls put SLicense
+DEBUG 4/8/2026, 6:36:48 PM  370  onUnfillLicense
+DEBUG 4/8/2026, 6:36:48 PM  370  trailRemains is 15
+INFO 4/8/2026, 6:36:48 PM  370  [L] installDate is 4/8/2026, trail remains: 15 days
+DEBUG 4/8/2026, 6:36:48 PM  371  onUnfillLicense
+INFO 4/8/2026, 6:36:48 PM  371  [watch L] hasL: false
+DEBUG 4/8/2026, 6:36:48 PM  464  putAccelerator File -> &File
+DEBUG 4/8/2026, 6:36:48 PM  464  putAccelerator Edit -> &Edit
+DEBUG 4/8/2026, 6:36:48 PM  464  putAccelerator Paragraph -> &Paragraph
+DEBUG 4/8/2026, 6:36:48 PM  465  putAccelerator Format -> F&ormat
+DEBUG 4/8/2026, 6:36:48 PM  465  putAccelerator View -> &View
+DEBUG 4/8/2026, 6:36:48 PM  465  putAccelerator Themes -> &Themes
+DEBUG 4/8/2026, 6:36:48 PM  465  putAccelerator Help -> &Help
+INFO 4/8/2026, 6:36:48 PM  482  synced recovery
+user-dict.json not found
+INFO 4/8/2026, 6:36:48 PM  569  [focus] 1
+INFO 4/8/2026, 6:36:48 PM  1002  [blur] 1
+INFO 4/8/2026, 6:36:48 PM  1002  [win] blur
+INFO 4/8/2026, 6:36:48 PM  1179  [focus] 1
+DEBUG 4/8/2026, 6:36:48 PM  1254  onUnfillLicense
+ERROR 4/8/2026, 6:36:48 PM  1271  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 4/8/2026, 6:36:48 PM  1274  handle document.loadData
+DEBUG 4/8/2026, 6:36:48 PM  1274  document.loadData 0
+ERROR 4/8/2026, 6:36:48 PM  1275  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 4/8/2026, 6:36:48 PM  1328  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 4/8/2026, 6:36:48 PM  1329  [RenderProcess 1][Log] reset NodeMap
+INFO 4/8/2026, 6:36:48 PM  1330  [RenderProcess 1][Log] readContentFrom /home/rubait/scripts/task/README.md
+DEBUG 4/8/2026, 6:36:49 PM  1475  added recovery 1 /home/rubait/scripts/task/README.md  (0)
+INFO 4/8/2026, 6:36:49 PM  1478  synced recovery
+INFO 4/8/2026, 6:36:49 PM  1721  [RenderProcess 1][Log] onBecomeActive
+INFO 4/8/2026, 6:36:49 PM  1721  [RenderProcess 1][Log] File.activeWindow = true
+INFO 4/8/2026, 6:36:55 PM  7989  [blur] 1
+INFO 4/8/2026, 6:36:55 PM  7989  [win] blur
+INFO 4/8/2026, 6:36:55 PM  8025  [focus] 1
+INFO 4/8/2026, 6:36:56 PM  9050  [blur] 1
+INFO 4/8/2026, 6:36:56 PM  9050  [win] blur
+INFO 4/8/2026, 6:36:57 PM  9879  [focus] 1
+INFO 4/8/2026, 6:36:57 PM  10003  [blur] 1
+INFO 4/8/2026, 6:36:57 PM  10003  [win] blur
+INFO 4/8/2026, 6:36:58 PM  10456  [focus] 1
+INFO 4/8/2026, 6:36:58 PM  10816  [blur] 1
+INFO 4/8/2026, 6:36:58 PM  10816  [win] blur
+INFO 4/8/2026, 6:37:04 PM  16380  [focus] 1
+INFO 4/8/2026, 6:37:05 PM  18248  [blur] 1
+INFO 4/8/2026, 6:37:05 PM  18248  [win] blur
+INFO 4/8/2026, 6:37:10 PM  23064  [focus] 1
+INFO 4/8/2026, 6:37:12 PM  24379  [blur] 1
+INFO 4/8/2026, 6:37:12 PM  24379  [win] blur
+INFO 4/8/2026, 6:37:15 PM  27443  [focus] 1
+DEBUG 4/8/2026, 6:37:46 PM  58886  added recovery 1 /home/rubait/scripts/task/README.md "# task-inbox.sh...# License
+
+MIT
+" (3410)
+INFO 4/8/2026, 6:37:46 PM  58887  synced recovery
+DEBUG 4/8/2026, 6:37:53 PM  65529  added recovery 1 /home/rubait/scripts/task/README.md  (0)
+INFO 4/8/2026, 6:37:53 PM  65530  synced recovery
+INFO 4/8/2026, 6:38:02 PM  74379  [blur] 1
+INFO 4/8/2026, 6:38:02 PM  74379  [win] blur
+INFO 4/8/2026, 6:38:02 PM  74483  [focus] 1
+INFO 4/8/2026, 6:38:15 PM  87566  [blur] 1
+INFO 4/8/2026, 6:38:15 PM  87566  [win] blur
+INFO 4/8/2026, 6:38:16 PM  89084  [focus] 1
+INFO 4/8/2026, 6:38:17 PM  89699  [blur] 1
+INFO 4/8/2026, 6:38:17 PM  89699  [win] blur
+INFO 4/8/2026, 6:38:19 PM  92339  [focus] 1
+INFO 4/8/2026, 6:38:21 PM  94108  [blur] 1
+INFO 4/8/2026, 6:38:21 PM  94108  [win] blur
+INFO 4/8/2026, 6:39:43 PM  176261  [focus] 1
+INFO 4/8/2026, 6:39:53 PM  185692  [blur] 1
+INFO 4/8/2026, 6:39:53 PM  185692  [win] blur
+INFO 4/8/2026, 6:42:27 PM  339407  [focus] 1
+INFO 4/8/2026, 6:42:33 PM  346293  synced recovery
+INFO 4/8/2026, 6:42:33 PM  346293  ----------------before-quit-----------------
+INFO 4/8/2026, 6:42:33 PM  346293  ------------------will-quit------------------
+INFO 4/8/2026, 6:42:33 PM  346295  -----------------quit------------------
+INFO 4/8/2026, 6:42:33 PM  346295  closeLogging
+INFO 4/8/2026, 8:30:59 PM  60  launch with argv [/usr/share/typora/Typora, --enable-wayland-ime, /home/rubait/Documents/Obsidian Vault/tasks/inbox.md]
+INFO 4/8/2026, 8:30:59 PM  182  ------------------start------------------
+DEBUG 4/8/2026, 8:30:59 PM  195  before setting 
+DEBUG 4/8/2026, 8:30:59 PM  227  prepDatabase /home/rubait/.config/Typora/profile.data
+DEBUG 4/8/2026, 8:30:59 PM  232  prepDatabase /home/rubait/.config/Typora/history.data
+INFO 4/8/2026, 8:30:59 PM  236  OS is linux 6.19.10-arch1-1
+INFO 4/8/2026, 8:30:59 PM  236  start LM in devVersion=false
+DEBUG 4/8/2026, 8:30:59 PM  250  after setting 
+INFO 4/8/2026, 8:30:59 PM  250  typora version: 1.12.4
+DEBUG 4/8/2026, 8:30:59 PM  250  app.openFile
+INFO 4/8/2026, 8:30:59 PM  250  addRecentDocument
+DEBUG 4/8/2026, 8:31:00 PM  356  added recovery 1 /home/rubait/Documents/Obsidian Vault/tasks/inbox.md  (0)
+INFO 4/8/2026, 8:31:00 PM  361  [watch L]
+DEBUG 4/8/2026, 8:31:00 PM  361  prepDatabase /home/rubait/.config/Typora/HY2uY8iK1k
+INFO 4/8/2026, 8:31:00 PM  365  no info
+INFO 4/8/2026, 8:31:00 PM  365  ls put SLicense
+DEBUG 4/8/2026, 8:31:00 PM  366  onUnfillLicense
+DEBUG 4/8/2026, 8:31:00 PM  366  trailRemains is 15
+INFO 4/8/2026, 8:31:00 PM  366  [L] installDate is 4/8/2026, trail remains: 15 days
+DEBUG 4/8/2026, 8:31:00 PM  366  onUnfillLicense
+INFO 4/8/2026, 8:31:00 PM  366  [watch L] hasL: false
+user-dict.json not found
+DEBUG 4/8/2026, 8:31:00 PM  460  putAccelerator File -> &File
+DEBUG 4/8/2026, 8:31:00 PM  461  putAccelerator Edit -> &Edit
+DEBUG 4/8/2026, 8:31:00 PM  461  putAccelerator Paragraph -> &Paragraph
+DEBUG 4/8/2026, 8:31:00 PM  461  putAccelerator Format -> F&ormat
+DEBUG 4/8/2026, 8:31:00 PM  461  putAccelerator View -> &View
+DEBUG 4/8/2026, 8:31:00 PM  461  putAccelerator Themes -> &Themes
+DEBUG 4/8/2026, 8:31:00 PM  461  putAccelerator Help -> &Help
+INFO 4/8/2026, 8:31:00 PM  489  synced recovery
+INFO 4/8/2026, 8:31:00 PM  575  [focus] 1
+DEBUG 4/8/2026, 8:31:00 PM  1209  onUnfillLicense
+ERROR 4/8/2026, 8:31:00 PM  1223  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 4/8/2026, 8:31:00 PM  1225  handle document.loadData
+DEBUG 4/8/2026, 8:31:00 PM  1225  document.loadData 0
+ERROR 4/8/2026, 8:31:00 PM  1226  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 4/8/2026, 8:31:00 PM  1287  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 4/8/2026, 8:31:00 PM  1288  [RenderProcess 1][Log] reset NodeMap
+INFO 4/8/2026, 8:31:00 PM  1289  [RenderProcess 1][Log] readContentFrom /home/rubait/Documents/Obsidian Vault/tasks/inbox.md
+DEBUG 4/8/2026, 8:31:01 PM  1335  added recovery 1 /home/rubait/Documents/Obsidian Vault/tasks/inbox.md  (0)
+INFO 4/8/2026, 8:31:01 PM  1337  synced recovery
+INFO 4/8/2026, 8:31:01 PM  1516  [RenderProcess 1][Log] onBecomeActive
+INFO 4/8/2026, 8:31:01 PM  1516  [RenderProcess 1][Log] File.activeWindow = true
+INFO 4/8/2026, 8:31:02 PM  3118  [blur] 1
+INFO 4/8/2026, 8:31:02 PM  3118  [win] blur
+INFO 4/8/2026, 8:31:30 PM  30807  [focus] 1
+INFO 4/8/2026, 8:31:31 PM  31856  synced recovery
+INFO 4/8/2026, 8:31:31 PM  31856  ----------------before-quit-----------------
+INFO 4/8/2026, 8:31:31 PM  31856  ------------------will-quit------------------
+INFO 4/8/2026, 8:31:31 PM  31857  -----------------quit------------------
+INFO 4/8/2026, 8:31:31 PM  31857  closeLogging
+INFO 4/9/2026, 12:09:41 AM  60  launch with argv [/usr/share/typora/Typora, --enable-wayland-ime, /home/rubait/Documents/Obsidian Vault/tasks/inbox.md]
+INFO 4/9/2026, 12:09:41 AM  187  ------------------start------------------
+DEBUG 4/9/2026, 12:09:41 AM  200  before setting 
+DEBUG 4/9/2026, 12:09:41 AM  231  prepDatabase /home/rubait/.config/Typora/profile.data
+DEBUG 4/9/2026, 12:09:41 AM  236  prepDatabase /home/rubait/.config/Typora/history.data
+INFO 4/9/2026, 12:09:41 AM  240  OS is linux 6.19.10-arch1-1
+INFO 4/9/2026, 12:09:41 AM  240  start LM in devVersion=false
+DEBUG 4/9/2026, 12:09:41 AM  252  after setting 
+INFO 4/9/2026, 12:09:41 AM  252  typora version: 1.12.4
+DEBUG 4/9/2026, 12:09:41 AM  252  app.openFile
+INFO 4/9/2026, 12:09:41 AM  253  addRecentDocument
+DEBUG 4/9/2026, 12:09:41 AM  371  added recovery 1 /home/rubait/Documents/Obsidian Vault/tasks/inbox.md  (0)
+INFO 4/9/2026, 12:09:41 AM  375  [watch L]
+DEBUG 4/9/2026, 12:09:41 AM  375  prepDatabase /home/rubait/.config/Typora/HY2uY8iK1k
+INFO 4/9/2026, 12:09:41 AM  379  no info
+INFO 4/9/2026, 12:09:41 AM  379  ls put SLicense
+DEBUG 4/9/2026, 12:09:41 AM  379  onUnfillLicense
+DEBUG 4/9/2026, 12:09:41 AM  379  trailRemains is 15
+INFO 4/9/2026, 12:09:41 AM  380  [L] installDate is 4/8/2026, trail remains: 15 days
+DEBUG 4/9/2026, 12:09:41 AM  380  onUnfillLicense
+INFO 4/9/2026, 12:09:41 AM  380  [watch L] hasL: false
+user-dict.json not found
+DEBUG 4/9/2026, 12:09:41 AM  471  putAccelerator File -> &File
+DEBUG 4/9/2026, 12:09:41 AM  471  putAccelerator Edit -> &Edit
+DEBUG 4/9/2026, 12:09:41 AM  471  putAccelerator Paragraph -> &Paragraph
+DEBUG 4/9/2026, 12:09:41 AM  471  putAccelerator Format -> F&ormat
+DEBUG 4/9/2026, 12:09:41 AM  472  putAccelerator View -> &View
+DEBUG 4/9/2026, 12:09:41 AM  472  putAccelerator Themes -> &Themes
+DEBUG 4/9/2026, 12:09:41 AM  472  putAccelerator Help -> &Help
+INFO 4/9/2026, 12:09:41 AM  491  synced recovery
+INFO 4/9/2026, 12:09:41 AM  589  [focus] 1
+DEBUG 4/9/2026, 12:09:42 AM  1249  onUnfillLicense
+ERROR 4/9/2026, 12:09:42 AM  1262  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 4/9/2026, 12:09:42 AM  1265  handle document.loadData
+DEBUG 4/9/2026, 12:09:42 AM  1265  document.loadData 0
+ERROR 4/9/2026, 12:09:42 AM  1266  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 4/9/2026, 12:09:42 AM  1332  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 4/9/2026, 12:09:42 AM  1332  [RenderProcess 1][Log] reset NodeMap
+INFO 4/9/2026, 12:09:42 AM  1333  [RenderProcess 1][Log] readContentFrom /home/rubait/Documents/Obsidian Vault/tasks/inbox.md
+DEBUG 4/9/2026, 12:09:42 AM  1409  added recovery 1 /home/rubait/Documents/Obsidian Vault/tasks/inbox.md  (0)
+INFO 4/9/2026, 12:09:42 AM  1413  synced recovery
+INFO 4/9/2026, 12:09:42 AM  1647  [RenderProcess 1][Log] onBecomeActive
+INFO 4/9/2026, 12:09:42 AM  1648  [RenderProcess 1][Log] File.activeWindow = true
+INFO 4/9/2026, 12:09:45 AM  4126  synced recovery
+INFO 4/9/2026, 12:09:45 AM  4126  ----------------before-quit-----------------
+INFO 4/9/2026, 12:09:45 AM  4126  ------------------will-quit------------------
+INFO 4/9/2026, 12:09:45 AM  4127  -----------------quit------------------
+INFO 4/9/2026, 12:09:45 AM  4127  closeLogging
+INFO 4/13/2026, 3:39:11 AM  62  launch with argv [/usr/share/typora/Typora, --enable-wayland-ime, /home/rubait/Downloads/protonvpn-wireguard-linux-master/README.md]
+INFO 4/13/2026, 3:39:11 AM  184  ------------------start------------------
+DEBUG 4/13/2026, 3:39:11 AM  198  before setting 
+DEBUG 4/13/2026, 3:39:11 AM  235  prepDatabase /home/rubait/.config/Typora/profile.data
+DEBUG 4/13/2026, 3:39:11 AM  241  prepDatabase /home/rubait/.config/Typora/history.data
+INFO 4/13/2026, 3:39:11 AM  246  OS is linux 6.19.10-arch1-1
+INFO 4/13/2026, 3:39:11 AM  246  start LM in devVersion=false
+DEBUG 4/13/2026, 3:39:11 AM  260  after setting 
+INFO 4/13/2026, 3:39:11 AM  260  typora version: 1.12.4
+DEBUG 4/13/2026, 3:39:11 AM  260  app.openFile
+INFO 4/13/2026, 3:39:11 AM  260  addRecentDocument
+DEBUG 4/13/2026, 3:39:11 AM  373  added recovery 1 /home/rubait/Downloads/protonvpn-wireguard-linux-master/README.md  (0)
+INFO 4/13/2026, 3:39:11 AM  377  [watch L]
+DEBUG 4/13/2026, 3:39:11 AM  377  prepDatabase /home/rubait/.config/Typora/HY2uY8iK1k
+INFO 4/13/2026, 3:39:11 AM  381  no info
+INFO 4/13/2026, 3:39:11 AM  381  ls put SLicense
+DEBUG 4/13/2026, 3:39:11 AM  381  onUnfillLicense
+DEBUG 4/13/2026, 3:39:11 AM  381  trailRemains is 11
+INFO 4/13/2026, 3:39:11 AM  382  [L] installDate is 4/8/2026, trail remains: 11 days
+DEBUG 4/13/2026, 3:39:11 AM  382  onUnfillLicense
+INFO 4/13/2026, 3:39:11 AM  382  [watch L] hasL: false
+user-dict.json not found
+DEBUG 4/13/2026, 3:39:11 AM  476  putAccelerator File -> &File
+DEBUG 4/13/2026, 3:39:11 AM  477  putAccelerator Edit -> &Edit
+DEBUG 4/13/2026, 3:39:11 AM  477  putAccelerator Paragraph -> &Paragraph
+DEBUG 4/13/2026, 3:39:11 AM  477  putAccelerator Format -> F&ormat
+DEBUG 4/13/2026, 3:39:11 AM  477  putAccelerator View -> &View
+DEBUG 4/13/2026, 3:39:11 AM  477  putAccelerator Themes -> &Themes
+DEBUG 4/13/2026, 3:39:11 AM  478  putAccelerator Help -> &Help
+INFO 4/13/2026, 3:39:11 AM  505  synced recovery
+INFO 4/13/2026, 3:39:12 AM  598  [focus] 1
+DEBUG 4/13/2026, 3:39:12 AM  1242  onUnfillLicense
+ERROR 4/13/2026, 3:39:12 AM  1256  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 4/13/2026, 3:39:12 AM  1259  handle document.loadData
+DEBUG 4/13/2026, 3:39:12 AM  1259  document.loadData 0
+ERROR 4/13/2026, 3:39:12 AM  1260  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 4/13/2026, 3:39:12 AM  1329  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 4/13/2026, 3:39:12 AM  1330  [RenderProcess 1][Log] reset NodeMap
+INFO 4/13/2026, 3:39:12 AM  1331  [RenderProcess 1][Log] readContentFrom /home/rubait/Downloads/protonvpn-wireguard-linux-master/README.md
+DEBUG 4/13/2026, 3:39:12 AM  1520  added recovery 1 /home/rubait/Downloads/protonvpn-wireguard-linux-master/README.md  (0)
+INFO 4/13/2026, 3:39:12 AM  1523  synced recovery
+INFO 4/13/2026, 3:39:13 AM  1640  [RenderProcess 1][Log] onBecomeActive
+INFO 4/13/2026, 3:39:13 AM  1640  [RenderProcess 1][Log] File.activeWindow = true
+ERROR 4/13/2026, 3:39:16 AM  5308  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 4/13/2026, 3:39:16 AM  5311  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 4/13/2026, 3:39:27 AM  15727  [blur] 1
+INFO 4/13/2026, 3:39:27 AM  15727  [win] blur
+INFO 4/13/2026, 3:42:04 AM  173164  [focus] 1
+INFO 4/13/2026, 3:42:10 AM  178777  [blur] 1
+INFO 4/13/2026, 3:42:10 AM  178777  [win] blur
+INFO 4/13/2026, 3:45:26 AM  374889  [focus] 1
+INFO 4/13/2026, 3:45:26 AM  375207  [blur] 1
+INFO 4/13/2026, 3:45:26 AM  375207  [win] blur
+INFO 4/13/2026, 3:45:28 AM  377051  [focus] 1
+INFO 4/13/2026, 3:45:28 AM  377300  [blur] 1
+INFO 4/13/2026, 3:45:28 AM  377300  [win] blur
+INFO 4/13/2026, 3:45:34 AM  382940  [focus] 1
+INFO 4/13/2026, 3:45:34 AM  383109  [blur] 1
+INFO 4/13/2026, 3:45:34 AM  383109  [win] blur
+INFO 4/13/2026, 3:46:21 AM  429913  [focus] 1
+INFO 4/13/2026, 3:46:21 AM  430197  [blur] 1
+INFO 4/13/2026, 3:46:21 AM  430197  [win] blur
+INFO 4/13/2026, 3:46:31 AM  440167  [focus] 1
+INFO 4/13/2026, 3:46:31 AM  440188  [blur] 1
+INFO 4/13/2026, 3:46:31 AM  440188  [win] blur
+INFO 4/13/2026, 3:46:52 AM  460783  [focus] 1
+INFO 4/13/2026, 3:46:52 AM  460840  [blur] 1
+INFO 4/13/2026, 3:46:52 AM  460840  [win] blur
+INFO 4/13/2026, 3:46:52 AM  461544  [focus] 1
+INFO 4/13/2026, 3:46:53 AM  462372  [blur] 1
+INFO 4/13/2026, 3:46:53 AM  462372  [win] blur
+INFO 4/13/2026, 3:47:07 AM  476287  [focus] 1
+INFO 4/13/2026, 3:47:07 AM  476396  [blur] 1
+INFO 4/13/2026, 3:47:07 AM  476396  [win] blur
+INFO 4/13/2026, 3:47:18 AM  486981  [focus] 1
+INFO 4/13/2026, 3:47:18 AM  487119  [blur] 1
+INFO 4/13/2026, 3:47:18 AM  487119  [win] blur
+INFO 4/13/2026, 3:47:19 AM  488144  [focus] 1
+INFO 4/13/2026, 3:47:20 AM  488782  [blur] 1
+INFO 4/13/2026, 3:47:20 AM  488783  [win] blur
+INFO 4/13/2026, 3:47:46 AM  515096  [focus] 1
+INFO 4/13/2026, 3:47:46 AM  515302  [blur] 1
+INFO 4/13/2026, 3:47:46 AM  515302  [win] blur
+INFO 4/13/2026, 3:48:00 AM  529364  [focus] 1
+INFO 4/13/2026, 3:48:00 AM  529433  [blur] 1
+INFO 4/13/2026, 3:48:00 AM  529434  [win] blur
+INFO 4/13/2026, 3:49:03 AM  592291  [focus] 1
+INFO 4/13/2026, 3:49:05 AM  594093  [blur] 1
+INFO 4/13/2026, 3:49:05 AM  594094  [win] blur
+INFO 4/13/2026, 3:49:16 AM  604830  [focus] 1
+INFO 4/13/2026, 3:49:16 AM  605399  [blur] 1
+INFO 4/13/2026, 3:49:16 AM  605399  [win] blur
+INFO 4/13/2026, 3:49:27 AM  616527  [focus] 1
+INFO 4/13/2026, 3:49:28 AM  617423  [blur] 1
+INFO 4/13/2026, 3:49:28 AM  617423  [win] blur
+INFO 4/13/2026, 3:49:50 AM  639127  [focus] 1
+INFO 4/13/2026, 3:49:50 AM  639431  [blur] 1
+INFO 4/13/2026, 3:49:50 AM  639431  [win] blur
+INFO 4/13/2026, 3:49:55 AM  644496  [focus] 1
+INFO 4/13/2026, 3:49:58 AM  647248  [blur] 1
+INFO 4/13/2026, 3:49:58 AM  647248  [win] blur
+INFO 4/13/2026, 3:50:27 AM  676159  [focus] 1
+INFO 4/13/2026, 3:50:28 AM  676767  [blur] 1
+INFO 4/13/2026, 3:50:28 AM  676767  [win] blur
+INFO 4/13/2026, 3:52:19 AM  788504  [focus] 1
+INFO 4/13/2026, 3:52:20 AM  789264  [blur] 1
+INFO 4/13/2026, 3:52:20 AM  789264  [win] blur
+INFO 4/13/2026, 3:52:38 AM  807097  [focus] 1
+INFO 4/13/2026, 3:52:44 AM  813320  [blur] 1
+INFO 4/13/2026, 3:52:44 AM  813320  [win] blur
+INFO 4/13/2026, 3:52:48 AM  816760  [focus] 1
+INFO 4/13/2026, 3:52:51 AM  819792  [blur] 1
+INFO 4/13/2026, 3:52:51 AM  819792  [win] blur
+INFO 4/13/2026, 3:52:57 AM  826392  [focus] 1
+INFO 4/13/2026, 3:52:59 AM  828097  [blur] 1
+INFO 4/13/2026, 3:52:59 AM  828097  [win] blur
+INFO 4/13/2026, 3:53:04 AM  832640  [focus] 1
+INFO 4/13/2026, 3:53:05 AM  833944  [blur] 1
+INFO 4/13/2026, 3:53:05 AM  833944  [win] blur
+INFO 4/13/2026, 3:53:26 AM  854724  [focus] 1
+INFO 4/13/2026, 3:53:28 AM  857338  [blur] 1
+INFO 4/13/2026, 3:53:28 AM  857338  [win] blur
+INFO 4/13/2026, 3:53:28 AM  857530  [focus] 1
+INFO 4/13/2026, 3:53:29 AM  858004  [blur] 1
+INFO 4/13/2026, 3:53:29 AM  858004  [win] blur
+INFO 4/13/2026, 3:53:30 AM  858649  [focus] 1
+INFO 4/13/2026, 3:53:31 AM  859633  [blur] 1
+INFO 4/13/2026, 3:53:31 AM  859633  [win] blur
+INFO 4/13/2026, 3:53:51 AM  880049  [focus] 1
+INFO 4/13/2026, 3:53:53 AM  882537  [blur] 1
+INFO 4/13/2026, 3:53:53 AM  882537  [win] blur
+INFO 4/13/2026, 3:56:30 AM  1039283  [focus] 1
+INFO 4/13/2026, 3:56:31 AM  1039828  [blur] 1
+INFO 4/13/2026, 3:56:31 AM  1039828  [win] blur
+INFO 4/13/2026, 3:58:34 AM  1162658  [focus] 1
+INFO 4/13/2026, 3:58:58 AM  1187133  [blur] 1
+INFO 4/13/2026, 3:58:58 AM  1187133  [win] blur
+INFO 4/13/2026, 3:59:02 AM  1191518  [focus] 1
+INFO 4/13/2026, 3:59:11 AM  1199685  [blur] 1
+INFO 4/13/2026, 3:59:11 AM  1199685  [win] blur
+INFO 4/13/2026, 3:59:14 AM  1202901  [focus] 1
+INFO 4/13/2026, 3:59:18 AM  1207477  [blur] 1
+INFO 4/13/2026, 3:59:18 AM  1207477  [win] blur
+INFO 4/13/2026, 3:59:23 AM  1211607  [focus] 1
+INFO 4/13/2026, 3:59:30 AM  1219261  [blur] 1
+INFO 4/13/2026, 3:59:30 AM  1219261  [win] blur
+INFO 4/13/2026, 4:00:03 AM  1252197  [focus] 1
+INFO 4/13/2026, 4:00:10 AM  1259245  [blur] 1
+INFO 4/13/2026, 4:00:10 AM  1259245  [win] blur
+INFO 4/13/2026, 4:00:43 AM  1291935  [focus] 1
+INFO 4/13/2026, 4:00:44 AM  1293182  [blur] 1
+INFO 4/13/2026, 4:00:44 AM  1293182  [win] blur
+INFO 4/13/2026, 4:01:09 AM  1318367  [focus] 1
+INFO 4/13/2026, 4:01:10 AM  1318662  [blur] 1
+INFO 4/13/2026, 4:01:10 AM  1318663  [win] blur
+INFO 4/13/2026, 4:01:59 AM  1367911  [focus] 1
+INFO 4/13/2026, 4:02:02 AM  1370733  [blur] 1
+INFO 4/13/2026, 4:02:02 AM  1370733  [win] blur
+INFO 4/13/2026, 4:02:05 AM  1373687  [focus] 1
+INFO 4/13/2026, 4:02:08 AM  1377451  [blur] 1
+INFO 4/13/2026, 4:02:08 AM  1377451  [win] blur
+INFO 4/13/2026, 4:02:25 AM  1394017  [focus] 1
+DEBUG 4/13/2026, 4:02:44 AM  1412772  execForAll
+INFO 4/13/2026, 4:02:44 AM  1412772  File.option.noHintForOpenLink=true;
+INFO 4/13/2026, 4:02:50 AM  1418815  [blur] 1
+INFO 4/13/2026, 4:02:50 AM  1418815  [win] blur
+INFO 4/13/2026, 4:02:50 AM  1419105  [focus] 1
+INFO 4/13/2026, 4:02:51 AM  1419817  [blur] 1
+INFO 4/13/2026, 4:02:51 AM  1419817  [win] blur
+INFO 4/13/2026, 4:02:54 AM  1422870  got argv [/usr/share/typora/Typora, --enable-wayland-ime, --allow-file-access-from-files, --ozone-platform=wayland, --desktop-startup-id=e32b1695-85ac-40fd-860a-30d0c2572fe7, /home/rubait/Downloads/protonvpn-wireguard-linux-master/docs/setup-guide.md] from secondary instance
+DEBUG 4/13/2026, 4:02:54 AM  1422870  app.openFile
+INFO 4/13/2026, 4:02:54 AM  1422871  addRecentDocument
+DEBUG 4/13/2026, 4:02:54 AM  1422891  added recovery 2 /home/rubait/Downloads/protonvpn-wireguard-linux-master/docs/setup-guide.md  (0)
+INFO 4/13/2026, 4:02:54 AM  1422902  synced recovery
+INFO 4/13/2026, 4:02:54 AM  1422930  [focus] 2
+INFO 4/13/2026, 4:02:54 AM  79  secondary instance would exit
+INFO 4/13/2026, 4:02:54 AM  218  exit second instance
+DEBUG 4/13/2026, 4:02:55 AM  1423680  onUnfillLicense
+ERROR 4/13/2026, 4:02:55 AM  1423696  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 4/13/2026, 4:02:55 AM  1423697  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 4/13/2026, 4:02:55 AM  1423698  handle document.loadData
+DEBUG 4/13/2026, 4:02:55 AM  1423698  document.loadData 0
+INFO 4/13/2026, 4:02:55 AM  1423749  [RenderProcess 2][Log] [UndoManager] reset commandStack
+INFO 4/13/2026, 4:02:55 AM  1423749  [RenderProcess 2][Log] reset NodeMap
+INFO 4/13/2026, 4:02:55 AM  1423750  [RenderProcess 2][Log] readContentFrom /home/rubait/Downloads/protonvpn-wireguard-linux-master/docs/setup-guide.md
+DEBUG 4/13/2026, 4:02:55 AM  1424021  added recovery 2 /home/rubait/Downloads/protonvpn-wireguard-linux-master/docs/setup-guide.md  (0)
+INFO 4/13/2026, 4:02:55 AM  1424023  synced recovery
+INFO 4/13/2026, 4:02:55 AM  1424081  [RenderProcess 2][Log] onBecomeActive
+INFO 4/13/2026, 4:02:55 AM  1424081  [RenderProcess 2][Log] File.activeWindow = true
+INFO 4/13/2026, 4:03:36 AM  1465481  [blur] 2
+INFO 4/13/2026, 4:03:36 AM  1465481  [win] blur
+INFO 4/13/2026, 4:03:36 AM  1465481  [focus] 1
+INFO 4/13/2026, 4:03:38 AM  1466633  [blur] 1
+INFO 4/13/2026, 4:03:38 AM  1466633  [win] blur
+INFO 4/13/2026, 4:03:38 AM  1466633  [focus] 2
+INFO 4/13/2026, 4:03:44 AM  1472584  [blur] 2
+INFO 4/13/2026, 4:03:44 AM  1472585  [win] blur
+INFO 4/13/2026, 4:03:44 AM  1472585  [focus] 2
+INFO 4/13/2026, 4:03:45 AM  1473801  [blur] 2
+INFO 4/13/2026, 4:03:45 AM  1473801  [win] blur
+INFO 4/13/2026, 4:03:45 AM  1473801  [focus] 2
+INFO 4/13/2026, 4:03:46 AM  1475016  [blur] 2
+INFO 4/13/2026, 4:03:46 AM  1475016  [win] blur
+INFO 4/13/2026, 4:03:53 AM  1481889  [focus] 2
+INFO 4/13/2026, 4:03:57 AM  1486138  [blur] 2
+INFO 4/13/2026, 4:03:57 AM  1486138  [win] blur
+INFO 4/13/2026, 4:04:01 AM  1489905  [focus] 2
+INFO 4/13/2026, 4:04:17 AM  1505676  [blur] 2
+INFO 4/13/2026, 4:04:17 AM  1505677  [win] blur
+INFO 4/13/2026, 4:04:21 AM  1510001  [focus] 2
+INFO 4/13/2026, 4:04:44 AM  1533353  [blur] 2
+INFO 4/13/2026, 4:04:44 AM  1533353  [win] blur
+INFO 4/13/2026, 4:05:38 AM  1586666  [focus] 2
+INFO 4/13/2026, 4:05:40 AM  1588865  [blur] 2
+INFO 4/13/2026, 4:05:40 AM  1588865  [win] blur
+INFO 4/13/2026, 4:05:43 AM  1592466  [focus] 2
+INFO 4/13/2026, 4:05:47 AM  1595667  [blur] 2
+INFO 4/13/2026, 4:05:47 AM  1595667  [win] blur
+INFO 4/13/2026, 4:06:12 AM  1620922  [focus] 2
+INFO 4/13/2026, 4:06:21 AM  1629592  [blur] 2
+INFO 4/13/2026, 4:06:21 AM  1629592  [win] blur
+INFO 4/13/2026, 4:06:21 AM  1629917  [focus] 2
+INFO 4/13/2026, 4:06:21 AM  1630178  [blur] 2
+INFO 4/13/2026, 4:06:21 AM  1630178  [win] blur
+INFO 4/13/2026, 4:06:34 AM  1643137  [focus] 2
+INFO 4/13/2026, 4:06:34 AM  1643515  [blur] 2
+INFO 4/13/2026, 4:06:34 AM  1643515  [win] blur
+INFO 4/13/2026, 4:06:35 AM  1643657  [focus] 2
+INFO 4/13/2026, 4:06:48 AM  1656866  [blur] 2
+INFO 4/13/2026, 4:06:48 AM  1656866  [win] blur
+INFO 4/13/2026, 4:06:55 AM  1664122  [focus] 2
+INFO 4/13/2026, 4:07:05 AM  1674178  [blur] 2
+INFO 4/13/2026, 4:07:05 AM  1674178  [win] blur
+INFO 4/13/2026, 4:07:08 AM  1676780  [focus] 2
+INFO 4/13/2026, 4:07:34 AM  1703404  [focus] 1
+INFO 4/13/2026, 4:07:35 AM  1704408  synced recovery
+INFO 4/13/2026, 4:07:35 AM  1704409  ----------------before-quit-----------------
+INFO 4/13/2026, 4:07:35 AM  1704409  ------------------will-quit------------------
+INFO 4/13/2026, 4:07:35 AM  1704410  -----------------quit------------------
+INFO 4/13/2026, 4:07:35 AM  1704410  closeLogging
+INFO 4/13/2026, 4:07:47 AM  51  launch with argv [/usr/share/typora/Typora, --enable-wayland-ime, /home/rubait/Downloads/omarchy-webapp-profile-master/README.md]
+INFO 4/13/2026, 4:07:47 AM  152  ------------------start------------------
+DEBUG 4/13/2026, 4:07:48 AM  160  before setting 
+DEBUG 4/13/2026, 4:07:48 AM  184  prepDatabase /home/rubait/.config/Typora/profile.data
+DEBUG 4/13/2026, 4:07:48 AM  189  prepDatabase /home/rubait/.config/Typora/history.data
+INFO 4/13/2026, 4:07:48 AM  193  OS is linux 6.19.10-arch1-1
+INFO 4/13/2026, 4:07:48 AM  193  start LM in devVersion=false
+DEBUG 4/13/2026, 4:07:48 AM  210  after setting 
+INFO 4/13/2026, 4:07:48 AM  210  typora version: 1.12.4
+DEBUG 4/13/2026, 4:07:48 AM  211  app.openFile
+INFO 4/13/2026, 4:07:48 AM  211  addRecentDocument
+INFO 4/13/2026, 4:07:48 AM  269  [watch L]
+DEBUG 4/13/2026, 4:07:48 AM  269  prepDatabase /home/rubait/.config/Typora/HY2uY8iK1k
+INFO 4/13/2026, 4:07:48 AM  274  no info
+INFO 4/13/2026, 4:07:48 AM  274  ls put SLicense
+DEBUG 4/13/2026, 4:07:48 AM  274  onUnfillLicense
+DEBUG 4/13/2026, 4:07:48 AM  274  trailRemains is 11
+INFO 4/13/2026, 4:07:48 AM  274  [L] installDate is 4/8/2026, trail remains: 11 days
+DEBUG 4/13/2026, 4:07:48 AM  274  onUnfillLicense
+INFO 4/13/2026, 4:07:48 AM  275  [watch L] hasL: false
+user-dict.json not found
+DEBUG 4/13/2026, 4:07:48 AM  344  added recovery 2 /home/rubait/Downloads/omarchy-webapp-profile-master/README.md  (0)
+DEBUG 4/13/2026, 4:07:48 AM  425  putAccelerator File -> &File
+DEBUG 4/13/2026, 4:07:48 AM  426  putAccelerator Edit -> &Edit
+DEBUG 4/13/2026, 4:07:48 AM  426  putAccelerator Paragraph -> &Paragraph
+DEBUG 4/13/2026, 4:07:48 AM  426  putAccelerator Format -> F&ormat
+DEBUG 4/13/2026, 4:07:48 AM  426  putAccelerator View -> &View
+DEBUG 4/13/2026, 4:07:48 AM  427  putAccelerator Themes -> &Themes
+DEBUG 4/13/2026, 4:07:48 AM  427  putAccelerator Help -> &Help
+INFO 4/13/2026, 4:07:48 AM  459  synced recovery
+INFO 4/13/2026, 4:07:48 AM  556  [focus] 2
+DEBUG 4/13/2026, 4:07:49 AM  1185  onUnfillLicense
+ERROR 4/13/2026, 4:07:49 AM  1201  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 4/13/2026, 4:07:49 AM  1204  handle document.loadData
+DEBUG 4/13/2026, 4:07:49 AM  1204  document.loadData 0
+ERROR 4/13/2026, 4:07:49 AM  1204  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 4/13/2026, 4:07:49 AM  1269  [RenderProcess 2][Log] [UndoManager] reset commandStack
+INFO 4/13/2026, 4:07:49 AM  1269  [RenderProcess 2][Log] reset NodeMap
+INFO 4/13/2026, 4:07:49 AM  1271  [RenderProcess 2][Log] readContentFrom /home/rubait/Downloads/omarchy-webapp-profile-master/README.md
+DEBUG 4/13/2026, 4:07:49 AM  1406  added recovery 2 /home/rubait/Downloads/omarchy-webapp-profile-master/README.md  (0)
+INFO 4/13/2026, 4:07:49 AM  1413  synced recovery
+INFO 4/13/2026, 4:07:49 AM  1651  [RenderProcess 2][Log] onBecomeActive
+INFO 4/13/2026, 4:07:49 AM  1652  [RenderProcess 2][Log] File.activeWindow = true
+INFO 4/13/2026, 4:07:49 AM  1670  [blur] 2
+INFO 4/13/2026, 4:07:49 AM  1672  [win] blur
+INFO 4/13/2026, 4:07:49 AM  1672  [focus] 1
+INFO 4/13/2026, 4:07:49 AM  1683  [blur] 1
+INFO 4/13/2026, 4:07:49 AM  1683  [focus] 2
+INFO 4/13/2026, 4:07:50 AM  2402  [blur] 2
+INFO 4/13/2026, 4:07:50 AM  2403  [win] blur
+INFO 4/13/2026, 4:07:50 AM  2403  [focus] 1
+INFO 4/13/2026, 4:07:51 AM  3465  [focus] 2
+INFO 4/13/2026, 4:07:51 AM  3566  [blur] 2
+INFO 4/13/2026, 4:07:51 AM  3566  [win] blur
+INFO 4/13/2026, 4:07:51 AM  3646  [focus] 2
+INFO 4/13/2026, 4:08:04 AM  16496  [blur] 2
+INFO 4/13/2026, 4:08:04 AM  16496  [win] blur
+INFO 4/13/2026, 4:08:20 AM  32496  [focus] 2
+INFO 4/13/2026, 4:08:32 AM  44200  [blur] 2
+INFO 4/13/2026, 4:08:32 AM  44200  [win] blur
+INFO 4/13/2026, 4:08:35 AM  47592  [focus] 2
+INFO 4/13/2026, 4:08:40 AM  52845  [blur] 2
+INFO 4/13/2026, 4:08:40 AM  52845  [win] blur
+INFO 4/13/2026, 4:09:02 AM  74561  [focus] 2
+INFO 4/13/2026, 4:09:04 AM  76259  [blur] 2
+INFO 4/13/2026, 4:09:04 AM  76259  [win] blur
+INFO 4/13/2026, 4:09:47 AM  119850  [focus] 2
+INFO 4/13/2026, 4:10:29 AM  161746  [blur] 2
+INFO 4/13/2026, 4:10:29 AM  161746  [win] blur
+INFO 4/13/2026, 4:10:37 AM  169724  [focus] 2
+INFO 4/13/2026, 4:10:40 AM  172946  [blur] 2
+INFO 4/13/2026, 4:10:40 AM  172946  [win] blur
+INFO 4/13/2026, 4:10:54 AM  186980  [focus] 2
+INFO 4/13/2026, 4:11:01 AM  193266  [blur] 2
+INFO 4/13/2026, 4:11:01 AM  193266  [win] blur
+INFO 4/13/2026, 4:11:11 AM  203581  [focus] 2
+INFO 4/13/2026, 4:11:11 AM  203847  synced recovery
+INFO 4/13/2026, 4:11:11 AM  203847  ----------------before-quit-----------------
+INFO 4/13/2026, 4:11:11 AM  203847  ------------------will-quit------------------
+INFO 4/13/2026, 4:11:11 AM  203849  -----------------quit------------------
+INFO 4/13/2026, 4:11:11 AM  203849  closeLogging
+INFO 4/13/2026, 2:18:46 PM  61  launch with argv [/usr/share/typora/Typora, --enable-wayland-ime, /run/media/rubait/storage/@personal/reviewForDublicates/First thing i do after first install.md]
+INFO 4/13/2026, 2:18:46 PM  186  ------------------start------------------
+DEBUG 4/13/2026, 2:18:46 PM  199  before setting 
+DEBUG 4/13/2026, 2:18:46 PM  231  prepDatabase /home/rubait/.config/Typora/profile.data
+DEBUG 4/13/2026, 2:18:46 PM  237  prepDatabase /home/rubait/.config/Typora/history.data
+INFO 4/13/2026, 2:18:46 PM  241  OS is linux 6.19.10-arch1-1
+INFO 4/13/2026, 2:18:46 PM  241  start LM in devVersion=false
+DEBUG 4/13/2026, 2:18:46 PM  256  after setting 
+INFO 4/13/2026, 2:18:46 PM  256  typora version: 1.12.4
+DEBUG 4/13/2026, 2:18:46 PM  256  app.openFile
+INFO 4/13/2026, 2:18:46 PM  256  addRecentDocument
+DEBUG 4/13/2026, 2:18:46 PM  362  added recovery 1 /run/media/rubait/storage/@personal/reviewForDublicates/First thing i do after first install.md  (0)
+INFO 4/13/2026, 2:18:46 PM  372  [watch L]
+DEBUG 4/13/2026, 2:18:46 PM  372  prepDatabase /home/rubait/.config/Typora/HY2uY8iK1k
+INFO 4/13/2026, 2:18:46 PM  379  no info
+INFO 4/13/2026, 2:18:46 PM  379  ls put SLicense
+DEBUG 4/13/2026, 2:18:46 PM  379  onUnfillLicense
+DEBUG 4/13/2026, 2:18:46 PM  379  trailRemains is 11
+INFO 4/13/2026, 2:18:46 PM  379  [L] installDate is 4/8/2026, trail remains: 11 days
+DEBUG 4/13/2026, 2:18:46 PM  380  onUnfillLicense
+INFO 4/13/2026, 2:18:46 PM  390  [watch L] hasL: false
+user-dict.json not found
+DEBUG 4/13/2026, 2:18:46 PM  503  putAccelerator File -> &File
+DEBUG 4/13/2026, 2:18:46 PM  503  putAccelerator Edit -> &Edit
+DEBUG 4/13/2026, 2:18:46 PM  503  putAccelerator Paragraph -> &Paragraph
+DEBUG 4/13/2026, 2:18:46 PM  503  putAccelerator Format -> F&ormat
+DEBUG 4/13/2026, 2:18:46 PM  504  putAccelerator View -> &View
+DEBUG 4/13/2026, 2:18:46 PM  504  putAccelerator Themes -> &Themes
+DEBUG 4/13/2026, 2:18:46 PM  504  putAccelerator Help -> &Help
+INFO 4/13/2026, 2:18:47 PM  540  synced recovery
+INFO 4/13/2026, 2:18:47 PM  636  [focus] 1
+INFO 4/13/2026, 2:18:47 PM  637  [blur] 1
+INFO 4/13/2026, 2:18:47 PM  637  [win] blur
+INFO 4/13/2026, 2:18:47 PM  653  [focus] 1
+INFO 4/13/2026, 2:18:47 PM  829  [blur] 1
+INFO 4/13/2026, 2:18:47 PM  829  [win] blur
+INFO 4/13/2026, 2:18:47 PM  829  [focus] 2
+INFO 4/13/2026, 2:18:47 PM  848  [blur] 2
+INFO 4/13/2026, 2:18:47 PM  849  [focus] 1
+DEBUG 4/13/2026, 2:18:47 PM  1395  onUnfillLicense
+INFO 4/13/2026, 2:18:47 PM  1405  [blur] 1
+INFO 4/13/2026, 2:18:47 PM  1405  [win] blur
+INFO 4/13/2026, 2:18:47 PM  1406  [focus] 2
+ERROR 4/13/2026, 2:18:47 PM  1414  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 4/13/2026, 2:18:47 PM  1417  handle document.loadData
+DEBUG 4/13/2026, 2:18:47 PM  1417  document.loadData 0
+ERROR 4/13/2026, 2:18:47 PM  1418  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 4/13/2026, 2:18:47 PM  1494  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 4/13/2026, 2:18:47 PM  1494  [RenderProcess 1][Log] reset NodeMap
+INFO 4/13/2026, 2:18:47 PM  1496  [RenderProcess 1][Log] readContentFrom /run/media/rubait/storage/@personal/reviewForDublicates/First thing i do after first install.md
+INFO 4/13/2026, 2:18:48 PM  1747  [blur] 2
+INFO 4/13/2026, 2:18:48 PM  1747  [focus] 1
+INFO 4/13/2026, 2:18:48 PM  1762  [RenderProcess 1][Log] onBecomeActive
+INFO 4/13/2026, 2:18:48 PM  1763  [RenderProcess 1][Log] File.activeWindow = true
+DEBUG 4/13/2026, 2:18:48 PM  2165  added recovery 1 /run/media/rubait/storage/@personal/reviewForDublicates/First thing i do after first install.md  (0)
+INFO 4/13/2026, 2:18:48 PM  2167  synced recovery
+INFO 4/13/2026, 2:18:48 PM  2206  [blur] 1
+INFO 4/13/2026, 2:18:48 PM  2207  [win] blur
+INFO 4/13/2026, 2:18:48 PM  2207  [focus] 2
+INFO 4/13/2026, 2:18:49 PM  2850  [focus] 1
+INFO 4/13/2026, 2:18:49 PM  3221  [blur] 1
+INFO 4/13/2026, 2:18:49 PM  3222  [win] blur
+INFO 4/13/2026, 2:18:51 PM  5166  [focus] 1
+INFO 4/13/2026, 2:18:52 PM  6134  [blur] 1
+INFO 4/13/2026, 2:18:52 PM  6134  [win] blur
+INFO 4/13/2026, 2:18:52 PM  6134  [focus] 1
+INFO 4/13/2026, 2:18:53 PM  7085  [blur] 1
+INFO 4/13/2026, 2:18:53 PM  7085  [win] blur
+INFO 4/13/2026, 2:19:05 PM  19142  [focus] 1
+INFO 4/13/2026, 2:19:06 PM  19925  [blur] 1
+INFO 4/13/2026, 2:19:06 PM  19925  [win] blur
+INFO 4/13/2026, 2:19:08 PM  22213  [focus] 1
+INFO 4/13/2026, 2:19:32 PM  46260  [blur] 1
+INFO 4/13/2026, 2:19:32 PM  46260  [win] blur
+INFO 4/13/2026, 2:19:43 PM  57132  [focus] 1
+INFO 4/13/2026, 2:19:45 PM  58647  synced recovery
+INFO 4/13/2026, 2:19:45 PM  58647  ----------------before-quit-----------------
+INFO 4/13/2026, 2:19:45 PM  58647  ------------------will-quit------------------
+INFO 4/13/2026, 2:19:45 PM  58648  -----------------quit------------------
+INFO 4/13/2026, 2:19:45 PM  58648  closeLogging
+INFO 4/13/2026, 4:13:34 PM  60  launch with argv [/usr/share/typora/Typora, --enable-wayland-ime, /home/rubait/Downloads/omarchy-webapp-profile-master/README.md]
+INFO 4/13/2026, 4:13:34 PM  163  ------------------start------------------
+DEBUG 4/13/2026, 4:13:34 PM  171  before setting 
+DEBUG 4/13/2026, 4:13:34 PM  207  prepDatabase /home/rubait/.config/Typora/profile.data
+DEBUG 4/13/2026, 4:13:34 PM  212  prepDatabase /home/rubait/.config/Typora/history.data
+INFO 4/13/2026, 4:13:34 PM  216  OS is linux 6.19.10-arch1-1
+INFO 4/13/2026, 4:13:34 PM  216  start LM in devVersion=false
+DEBUG 4/13/2026, 4:13:34 PM  231  after setting 
+INFO 4/13/2026, 4:13:34 PM  231  typora version: 1.12.4
+DEBUG 4/13/2026, 4:13:34 PM  232  app.openFile
+INFO 4/13/2026, 4:13:34 PM  232  addRecentDocument
+INFO 4/13/2026, 4:13:34 PM  292  [watch L]
+DEBUG 4/13/2026, 4:13:34 PM  292  prepDatabase /home/rubait/.config/Typora/HY2uY8iK1k
+INFO 4/13/2026, 4:13:34 PM  295  no info
+INFO 4/13/2026, 4:13:34 PM  295  ls put SLicense
+DEBUG 4/13/2026, 4:13:34 PM  295  onUnfillLicense
+DEBUG 4/13/2026, 4:13:34 PM  296  trailRemains is 11
+INFO 4/13/2026, 4:13:34 PM  296  [L] installDate is 4/8/2026, trail remains: 11 days
+DEBUG 4/13/2026, 4:13:34 PM  296  onUnfillLicense
+INFO 4/13/2026, 4:13:34 PM  296  [watch L] hasL: false
+user-dict.json not found
+DEBUG 4/13/2026, 4:13:35 PM  349  added recovery 1 /home/rubait/Downloads/omarchy-webapp-profile-master/README.md  (0)
+DEBUG 4/13/2026, 4:13:35 PM  365  putAccelerator File -> &File
+DEBUG 4/13/2026, 4:13:35 PM  366  putAccelerator Edit -> &Edit
+DEBUG 4/13/2026, 4:13:35 PM  366  putAccelerator Paragraph -> &Paragraph
+DEBUG 4/13/2026, 4:13:35 PM  366  putAccelerator Format -> F&ormat
+DEBUG 4/13/2026, 4:13:35 PM  367  putAccelerator View -> &View
+DEBUG 4/13/2026, 4:13:35 PM  367  putAccelerator Themes -> &Themes
+DEBUG 4/13/2026, 4:13:35 PM  367  putAccelerator Help -> &Help
+INFO 4/13/2026, 4:13:35 PM  469  synced recovery
+INFO 4/13/2026, 4:13:35 PM  557  [focus] 1
+INFO 4/13/2026, 4:13:35 PM  559  [blur] 1
+INFO 4/13/2026, 4:13:35 PM  559  [win] blur
+INFO 4/13/2026, 4:13:35 PM  1015  [focus] 1
+DEBUG 4/13/2026, 4:13:35 PM  1287  onUnfillLicense
+ERROR 4/13/2026, 4:13:35 PM  1310  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 4/13/2026, 4:13:35 PM  1314  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 4/13/2026, 4:13:35 PM  1315  handle document.loadData
+DEBUG 4/13/2026, 4:13:35 PM  1315  document.loadData 0
+INFO 4/13/2026, 4:13:36 PM  1389  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 4/13/2026, 4:13:36 PM  1389  [RenderProcess 1][Log] reset NodeMap
+INFO 4/13/2026, 4:13:36 PM  1392  [RenderProcess 1][Log] readContentFrom /home/rubait/Downloads/omarchy-webapp-profile-master/README.md
+DEBUG 4/13/2026, 4:13:36 PM  1535  added recovery 1 /home/rubait/Downloads/omarchy-webapp-profile-master/README.md  (0)
+INFO 4/13/2026, 4:13:36 PM  1537  synced recovery
+INFO 4/13/2026, 4:13:36 PM  1747  [RenderProcess 1][Log] onBecomeActive
+INFO 4/13/2026, 4:13:36 PM  1747  [RenderProcess 1][Log] File.activeWindow = true
+INFO 4/13/2026, 4:13:43 PM  8543  [blur] 1
+INFO 4/13/2026, 4:13:43 PM  8543  [win] blur
+INFO 4/13/2026, 4:13:47 PM  12719  [focus] 1
+INFO 4/13/2026, 4:13:50 PM  15679  [blur] 1
+INFO 4/13/2026, 4:13:50 PM  15679  [win] blur
+INFO 4/13/2026, 4:14:15 PM  41071  [focus] 1
+INFO 4/13/2026, 4:14:19 PM  44752  [blur] 1
+INFO 4/13/2026, 4:14:19 PM  44752  [win] blur
+INFO 4/13/2026, 4:14:20 PM  45623  [focus] 1
+INFO 4/13/2026, 4:14:23 PM  48775  [blur] 1
+INFO 4/13/2026, 4:14:23 PM  48775  [win] blur
+INFO 4/13/2026, 4:14:28 PM  53472  [focus] 1
+INFO 4/13/2026, 4:14:28 PM  54190  [blur] 1
+INFO 4/13/2026, 4:14:28 PM  54191  [win] blur
+INFO 4/13/2026, 4:14:33 PM  59175  [focus] 1
+INFO 4/13/2026, 4:14:34 PM  59393  [blur] 1
+INFO 4/13/2026, 4:14:34 PM  59393  [win] blur
+INFO 4/13/2026, 4:14:48 PM  74121  [focus] 1
+INFO 4/13/2026, 4:14:48 PM  74194  [blur] 1
+INFO 4/13/2026, 4:14:48 PM  74195  [win] blur
+INFO 4/13/2026, 4:14:49 PM  75215  [focus] 1
+INFO 4/13/2026, 4:14:50 PM  75467  synced recovery
+INFO 4/13/2026, 4:14:50 PM  75468  ----------------before-quit-----------------
+INFO 4/13/2026, 4:14:50 PM  75468  ------------------will-quit------------------
+INFO 4/13/2026, 4:14:50 PM  75470  -----------------quit------------------
+INFO 4/13/2026, 4:14:50 PM  75470  closeLogging
+INFO 4/13/2026, 4:17:36 PM  52  launch with argv [/usr/share/typora/Typora, --enable-wayland-ime, /home/rubait/Downloads/omarchy-webapp-profile-master/README.md]
+INFO 4/13/2026, 4:17:37 PM  154  ------------------start------------------
+DEBUG 4/13/2026, 4:17:37 PM  161  before setting 
+DEBUG 4/13/2026, 4:17:37 PM  186  prepDatabase /home/rubait/.config/Typora/profile.data
+DEBUG 4/13/2026, 4:17:37 PM  192  prepDatabase /home/rubait/.config/Typora/history.data
+INFO 4/13/2026, 4:17:37 PM  197  OS is linux 6.19.10-arch1-1
+INFO 4/13/2026, 4:17:37 PM  197  start LM in devVersion=false
+DEBUG 4/13/2026, 4:17:37 PM  214  after setting 
+INFO 4/13/2026, 4:17:37 PM  214  typora version: 1.12.4
+DEBUG 4/13/2026, 4:17:37 PM  215  app.openFile
+INFO 4/13/2026, 4:17:37 PM  215  addRecentDocument
+INFO 4/13/2026, 4:17:37 PM  274  [watch L]
+DEBUG 4/13/2026, 4:17:37 PM  274  prepDatabase /home/rubait/.config/Typora/HY2uY8iK1k
+INFO 4/13/2026, 4:17:37 PM  277  no info
+INFO 4/13/2026, 4:17:37 PM  277  ls put SLicense
+DEBUG 4/13/2026, 4:17:37 PM  278  onUnfillLicense
+DEBUG 4/13/2026, 4:17:37 PM  278  trailRemains is 11
+INFO 4/13/2026, 4:17:37 PM  278  [L] installDate is 4/8/2026, trail remains: 11 days
+DEBUG 4/13/2026, 4:17:37 PM  278  onUnfillLicense
+INFO 4/13/2026, 4:17:37 PM  278  [watch L] hasL: false
+user-dict.json not found
+DEBUG 4/13/2026, 4:17:37 PM  331  added recovery 1 /home/rubait/Downloads/omarchy-webapp-profile-master/README.md  (0)
+DEBUG 4/13/2026, 4:17:37 PM  349  putAccelerator File -> &File
+DEBUG 4/13/2026, 4:17:37 PM  350  putAccelerator Edit -> &Edit
+DEBUG 4/13/2026, 4:17:37 PM  350  putAccelerator Paragraph -> &Paragraph
+DEBUG 4/13/2026, 4:17:37 PM  350  putAccelerator Format -> F&ormat
+DEBUG 4/13/2026, 4:17:37 PM  353  putAccelerator View -> &View
+DEBUG 4/13/2026, 4:17:37 PM  353  putAccelerator Themes -> &Themes
+DEBUG 4/13/2026, 4:17:37 PM  353  putAccelerator Help -> &Help
+INFO 4/13/2026, 4:17:37 PM  441  synced recovery
+INFO 4/13/2026, 4:17:37 PM  537  [focus] 1
+INFO 4/13/2026, 4:17:37 PM  835  [blur] 1
+INFO 4/13/2026, 4:17:37 PM  836  [win] blur
+DEBUG 4/13/2026, 4:17:38 PM  1263  onUnfillLicense
+ERROR 4/13/2026, 4:17:38 PM  1277  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 4/13/2026, 4:17:38 PM  1280  handle document.loadData
+DEBUG 4/13/2026, 4:17:38 PM  1280  document.loadData 0
+ERROR 4/13/2026, 4:17:38 PM  1281  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 4/13/2026, 4:17:38 PM  1345  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 4/13/2026, 4:17:38 PM  1345  [RenderProcess 1][Log] reset NodeMap
+INFO 4/13/2026, 4:17:38 PM  1347  [RenderProcess 1][Log] readContentFrom /home/rubait/Downloads/omarchy-webapp-profile-master/README.md
+DEBUG 4/13/2026, 4:17:38 PM  1532  added recovery 1 /home/rubait/Downloads/omarchy-webapp-profile-master/README.md  (0)
+INFO 4/13/2026, 4:17:38 PM  1533  synced recovery
+INFO 4/13/2026, 4:17:38 PM  1668  [focus] 1
+INFO 4/13/2026, 4:17:38 PM  1754  [RenderProcess 1][Log] onBecomeActive
+INFO 4/13/2026, 4:17:38 PM  1757  [RenderProcess 1][Log] File.activeWindow = true
+INFO 4/13/2026, 4:17:39 PM  2694  [blur] 1
+INFO 4/13/2026, 4:17:39 PM  2694  [win] blur
+INFO 4/13/2026, 4:17:39 PM  2704  [focus] 1
+INFO 4/13/2026, 4:17:45 PM  8819  [blur] 1
+INFO 4/13/2026, 4:17:45 PM  8819  [win] blur
+INFO 4/13/2026, 4:20:33 PM  176212  [focus] 1
+INFO 4/13/2026, 4:20:33 PM  176245  [blur] 1
+INFO 4/13/2026, 4:20:33 PM  176245  [win] blur
+INFO 4/13/2026, 4:20:33 PM  176429  [focus] 1
+INFO 4/13/2026, 4:20:34 PM  177632  synced recovery
+INFO 4/13/2026, 4:20:34 PM  177632  ----------------before-quit-----------------
+INFO 4/13/2026, 4:20:34 PM  177632  ------------------will-quit------------------
+INFO 4/13/2026, 4:20:34 PM  177633  -----------------quit------------------
+INFO 4/13/2026, 4:20:34 PM  177633  closeLogging
+INFO 4/16/2026, 1:06:14 PM  60  launch with argv [/usr/share/typora/Typora, --enable-wayland-ime, /run/media/rubait/storage/@personal/proxmox vm omarchy/files/Omarchy os guide.md]
+INFO 4/16/2026, 1:06:15 PM  183  ------------------start------------------
+DEBUG 4/16/2026, 1:06:15 PM  196  before setting 
+DEBUG 4/16/2026, 1:06:15 PM  232  prepDatabase /home/rubait/.config/Typora/profile.data
+DEBUG 4/16/2026, 1:06:15 PM  239  prepDatabase /home/rubait/.config/Typora/history.data
+INFO 4/16/2026, 1:06:15 PM  243  OS is linux 6.19.10-arch1-1
+INFO 4/16/2026, 1:06:15 PM  243  start LM in devVersion=false
+DEBUG 4/16/2026, 1:06:15 PM  258  after setting 
+INFO 4/16/2026, 1:06:15 PM  258  typora version: 1.12.4
+DEBUG 4/16/2026, 1:06:15 PM  259  app.openFile
+INFO 4/16/2026, 1:06:15 PM  259  addRecentDocument
+DEBUG 4/16/2026, 1:06:15 PM  372  added recovery 1 /run/media/rubait/storage/@personal/proxmox vm omarchy/files/Omarchy os guide.md  (0)
+INFO 4/16/2026, 1:06:15 PM  376  [watch L]
+DEBUG 4/16/2026, 1:06:15 PM  376  prepDatabase /home/rubait/.config/Typora/HY2uY8iK1k
+INFO 4/16/2026, 1:06:15 PM  381  no info
+INFO 4/16/2026, 1:06:15 PM  381  ls put SLicense
+DEBUG 4/16/2026, 1:06:15 PM  381  onUnfillLicense
+DEBUG 4/16/2026, 1:06:15 PM  381  trailRemains is 8
+INFO 4/16/2026, 1:06:15 PM  382  [L] installDate is 4/8/2026, trail remains: 8 days
+DEBUG 4/16/2026, 1:06:15 PM  382  onUnfillLicense
+INFO 4/16/2026, 1:06:15 PM  382  [watch L] hasL: false
+user-dict.json not found
+DEBUG 4/16/2026, 1:06:15 PM  475  putAccelerator File -> &File
+DEBUG 4/16/2026, 1:06:15 PM  476  putAccelerator Edit -> &Edit
+DEBUG 4/16/2026, 1:06:15 PM  476  putAccelerator Paragraph -> &Paragraph
+DEBUG 4/16/2026, 1:06:15 PM  476  putAccelerator Format -> F&ormat
+DEBUG 4/16/2026, 1:06:15 PM  476  putAccelerator View -> &View
+DEBUG 4/16/2026, 1:06:15 PM  476  putAccelerator Themes -> &Themes
+DEBUG 4/16/2026, 1:06:15 PM  476  putAccelerator Help -> &Help
+INFO 4/16/2026, 1:06:15 PM  502  synced recovery
+INFO 4/16/2026, 1:06:15 PM  580  [focus] 1
+INFO 4/16/2026, 1:06:16 PM  1125  [blur] 1
+INFO 4/16/2026, 1:06:16 PM  1125  [win] blur
+INFO 4/16/2026, 1:06:16 PM  1205  [focus] 1
+DEBUG 4/16/2026, 1:06:16 PM  1283  onUnfillLicense
+ERROR 4/16/2026, 1:06:16 PM  1304  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 4/16/2026, 1:06:16 PM  1307  handle document.loadData
+DEBUG 4/16/2026, 1:06:16 PM  1307  document.loadData 0
+ERROR 4/16/2026, 1:06:16 PM  1308  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 4/16/2026, 1:06:16 PM  1386  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 4/16/2026, 1:06:16 PM  1386  [RenderProcess 1][Log] reset NodeMap
+INFO 4/16/2026, 1:06:16 PM  1388  [RenderProcess 1][Log] readContentFrom /run/media/rubait/storage/@personal/proxmox vm omarchy/files/Omarchy os guide.md
+DEBUG 4/16/2026, 1:06:16 PM  1521  added recovery 1 /run/media/rubait/storage/@personal/proxmox vm omarchy/files/Omarchy os guide.md  (0)
+INFO 4/16/2026, 1:06:16 PM  1525  synced recovery
+INFO 4/16/2026, 1:06:16 PM  1724  [RenderProcess 1][Log] onBecomeActive
+INFO 4/16/2026, 1:06:16 PM  1724  [RenderProcess 1][Log] File.activeWindow = true
+INFO 4/16/2026, 1:06:21 PM  6721  synced recovery
+INFO 4/16/2026, 1:06:21 PM  6721  ----------------before-quit-----------------
+INFO 4/16/2026, 1:06:21 PM  6721  ------------------will-quit------------------
+INFO 4/16/2026, 1:06:21 PM  6722  -----------------quit------------------
+INFO 4/16/2026, 1:06:21 PM  6722  closeLogging
+INFO 4/16/2026, 1:06:36 PM  51  launch with argv [/usr/share/typora/Typora, --enable-wayland-ime, /run/media/rubait/storage/@personal/proxmox vm omarchy/files/how to setup the tasks plugin for obsidian.md]
+INFO 4/16/2026, 1:06:36 PM  152  ------------------start------------------
+DEBUG 4/16/2026, 1:06:36 PM  161  before setting 
+DEBUG 4/16/2026, 1:06:36 PM  186  prepDatabase /home/rubait/.config/Typora/profile.data
+DEBUG 4/16/2026, 1:06:36 PM  191  prepDatabase /home/rubait/.config/Typora/history.data
+INFO 4/16/2026, 1:06:36 PM  195  OS is linux 6.19.10-arch1-1
+INFO 4/16/2026, 1:06:36 PM  195  start LM in devVersion=false
+DEBUG 4/16/2026, 1:06:36 PM  209  after setting 
+INFO 4/16/2026, 1:06:36 PM  209  typora version: 1.12.4
+DEBUG 4/16/2026, 1:06:36 PM  209  app.openFile
+INFO 4/16/2026, 1:06:36 PM  209  addRecentDocument
+INFO 4/16/2026, 1:06:36 PM  268  [watch L]
+DEBUG 4/16/2026, 1:06:36 PM  268  prepDatabase /home/rubait/.config/Typora/HY2uY8iK1k
+INFO 4/16/2026, 1:06:36 PM  271  no info
+INFO 4/16/2026, 1:06:36 PM  271  ls put SLicense
+DEBUG 4/16/2026, 1:06:36 PM  272  onUnfillLicense
+DEBUG 4/16/2026, 1:06:36 PM  272  trailRemains is 8
+INFO 4/16/2026, 1:06:36 PM  272  [L] installDate is 4/8/2026, trail remains: 8 days
+DEBUG 4/16/2026, 1:06:36 PM  272  onUnfillLicense
+INFO 4/16/2026, 1:06:36 PM  308  [watch L] hasL: false
+user-dict.json not found
+DEBUG 4/16/2026, 1:06:36 PM  342  added recovery 2 /run/media/rubait/storage/@personal/proxmox vm omarchy/files/how to setup the tasks plugin for obsidian.md  (0)
+DEBUG 4/16/2026, 1:06:36 PM  431  putAccelerator File -> &File
+DEBUG 4/16/2026, 1:06:36 PM  431  putAccelerator Edit -> &Edit
+DEBUG 4/16/2026, 1:06:36 PM  432  putAccelerator Paragraph -> &Paragraph
+DEBUG 4/16/2026, 1:06:36 PM  432  putAccelerator Format -> F&ormat
+DEBUG 4/16/2026, 1:06:36 PM  432  putAccelerator View -> &View
+DEBUG 4/16/2026, 1:06:36 PM  432  putAccelerator Themes -> &Themes
+DEBUG 4/16/2026, 1:06:36 PM  432  putAccelerator Help -> &Help
+INFO 4/16/2026, 1:06:36 PM  468  synced recovery
+INFO 4/16/2026, 1:06:37 PM  550  [focus] 2
+INFO 4/16/2026, 1:06:37 PM  556  [blur] 2
+INFO 4/16/2026, 1:06:37 PM  556  [win] blur
+INFO 4/16/2026, 1:06:37 PM  1162  [focus] 2
+DEBUG 4/16/2026, 1:06:37 PM  1261  onUnfillLicense
+INFO 4/16/2026, 1:06:37 PM  1284  handle document.loadData
+DEBUG 4/16/2026, 1:06:37 PM  1284  document.loadData 0
+ERROR 4/16/2026, 1:06:37 PM  1290  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 4/16/2026, 1:06:37 PM  1294  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 4/16/2026, 1:06:37 PM  1369  [RenderProcess 2][Log] [UndoManager] reset commandStack
+INFO 4/16/2026, 1:06:37 PM  1371  [RenderProcess 2][Log] reset NodeMap
+INFO 4/16/2026, 1:06:37 PM  1371  [RenderProcess 2][Log] readContentFrom /run/media/rubait/storage/@personal/proxmox vm omarchy/files/how to setup the tasks plugin for obsidian.md
+INFO 4/16/2026, 1:06:38 PM  1662  [RenderProcess 2][Log] onBecomeActive
+INFO 4/16/2026, 1:06:38 PM  1663  [RenderProcess 2][Log] File.activeWindow = true
+INFO 4/16/2026, 1:06:38 PM  1719  [blur] 2
+INFO 4/16/2026, 1:06:38 PM  1721  [win] blur
+INFO 4/16/2026, 1:06:38 PM  1722  [focus] 1
+INFO 4/16/2026, 1:06:38 PM  1940  [blur] 1
+INFO 4/16/2026, 1:06:38 PM  1940  [focus] 2
+DEBUG 4/16/2026, 1:06:38 PM  2100  added recovery 2 /run/media/rubait/storage/@personal/proxmox vm omarchy/files/how to setup the tasks plugin for obsidian.md  (0)
+INFO 4/16/2026, 1:06:38 PM  2110  synced recovery
+INFO 4/16/2026, 1:06:38 PM  2314  [blur] 2
+INFO 4/16/2026, 1:06:38 PM  2314  [win] blur
+INFO 4/16/2026, 1:06:38 PM  2315  [focus] 1
+INFO 4/16/2026, 1:06:39 PM  3052  [focus] 2
+INFO 4/16/2026, 1:06:39 PM  3242  [blur] 2
+INFO 4/16/2026, 1:06:39 PM  3242  [win] blur
+INFO 4/16/2026, 1:06:39 PM  3274  [focus] 2
+INFO 4/16/2026, 1:06:47 PM  10692  synced recovery
+INFO 4/16/2026, 1:06:47 PM  10692  ----------------before-quit-----------------
+INFO 4/16/2026, 1:06:47 PM  10692  ------------------will-quit------------------
+INFO 4/16/2026, 1:06:47 PM  10694  -----------------quit------------------
+INFO 4/16/2026, 1:06:47 PM  10694  closeLogging
+INFO 4/16/2026, 5:59:59 PM  53  launch with argv [/usr/share/typora/Typora, --enable-wayland-ime, /run/media/rubait/storage/@personal/maybeImportant/skill/omarchy-knowledge/omarchy-knowledge/SKILL.md]
+INFO 4/16/2026, 5:59:59 PM  161  ------------------start------------------
+DEBUG 4/16/2026, 5:59:59 PM  168  before setting 
+DEBUG 4/16/2026, 5:59:59 PM  192  prepDatabase /home/rubait/.config/Typora/profile.data
+DEBUG 4/16/2026, 5:59:59 PM  197  prepDatabase /home/rubait/.config/Typora/history.data
+INFO 4/16/2026, 5:59:59 PM  201  OS is linux 6.19.10-arch1-1
+INFO 4/16/2026, 5:59:59 PM  201  start LM in devVersion=false
+DEBUG 4/16/2026, 5:59:59 PM  214  after setting 
+INFO 4/16/2026, 5:59:59 PM  215  typora version: 1.12.4
+DEBUG 4/16/2026, 5:59:59 PM  215  app.openFile
+INFO 4/16/2026, 5:59:59 PM  215  addRecentDocument
+INFO 4/16/2026, 5:59:59 PM  274  [watch L]
+DEBUG 4/16/2026, 5:59:59 PM  274  prepDatabase /home/rubait/.config/Typora/HY2uY8iK1k
+INFO 4/16/2026, 5:59:59 PM  277  no info
+INFO 4/16/2026, 5:59:59 PM  277  ls put SLicense
+DEBUG 4/16/2026, 5:59:59 PM  277  onUnfillLicense
+DEBUG 4/16/2026, 5:59:59 PM  277  trailRemains is 8
+INFO 4/16/2026, 5:59:59 PM  278  [L] installDate is 4/8/2026, trail remains: 8 days
+DEBUG 4/16/2026, 5:59:59 PM  278  onUnfillLicense
+INFO 4/16/2026, 5:59:59 PM  313  [watch L] hasL: false
+user-dict.json not found
+DEBUG 4/16/2026, 5:59:59 PM  344  added recovery 2 /run/media/rubait/storage/@personal/maybeImportant/skill/omarchy-knowledge/omarchy-knowledge/SKILL.md  (0)
+DEBUG 4/16/2026, 5:59:59 PM  439  putAccelerator File -> &File
+DEBUG 4/16/2026, 5:59:59 PM  440  putAccelerator Edit -> &Edit
+DEBUG 4/16/2026, 5:59:59 PM  440  putAccelerator Paragraph -> &Paragraph
+DEBUG 4/16/2026, 5:59:59 PM  440  putAccelerator Format -> F&ormat
+DEBUG 4/16/2026, 5:59:59 PM  440  putAccelerator View -> &View
+DEBUG 4/16/2026, 5:59:59 PM  440  putAccelerator Themes -> &Themes
+DEBUG 4/16/2026, 5:59:59 PM  440  putAccelerator Help -> &Help
+INFO 4/16/2026, 5:59:59 PM  472  synced recovery
+INFO 4/16/2026, 5:59:59 PM  561  [focus] 2
+DEBUG 4/16/2026, 6:00:00 PM  1193  onUnfillLicense
+INFO 4/16/2026, 6:00:00 PM  1212  handle document.loadData
+DEBUG 4/16/2026, 6:00:00 PM  1212  document.loadData 0
+ERROR 4/16/2026, 6:00:00 PM  1214  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 4/16/2026, 6:00:00 PM  1216  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 4/16/2026, 6:00:00 PM  1274  [RenderProcess 2][Log] [UndoManager] reset commandStack
+INFO 4/16/2026, 6:00:00 PM  1274  [RenderProcess 2][Log] reset NodeMap
+INFO 4/16/2026, 6:00:00 PM  1275  [RenderProcess 2][Log] readContentFrom /run/media/rubait/storage/@personal/maybeImportant/skill/omarchy-knowledge/omarchy-knowledge/SKILL.md
+DEBUG 4/16/2026, 6:00:00 PM  1525  added recovery 2 /run/media/rubait/storage/@personal/maybeImportant/skill/omarchy-knowledge/omarchy-knowledge/SKILL.md  (0)
+INFO 4/16/2026, 6:00:00 PM  1526  synced recovery
+INFO 4/16/2026, 6:00:00 PM  1659  [RenderProcess 2][Log] onBecomeActive
+INFO 4/16/2026, 6:00:00 PM  1659  [RenderProcess 2][Log] File.activeWindow = true
+INFO 4/16/2026, 6:00:00 PM  1699  [blur] 2
+INFO 4/16/2026, 6:00:00 PM  1699  [win] blur
+INFO 4/16/2026, 6:00:00 PM  1699  [focus] 1
+INFO 4/16/2026, 6:00:01 PM  2505  [blur] 1
+INFO 4/16/2026, 6:00:01 PM  2505  [focus] 2
+INFO 4/16/2026, 6:00:01 PM  2649  [blur] 2
+INFO 4/16/2026, 6:00:01 PM  2649  [win] blur
+INFO 4/16/2026, 6:00:01 PM  2649  [focus] 1
+INFO 4/16/2026, 6:00:03 PM  4394  [focus] 2
+INFO 4/16/2026, 6:00:03 PM  4489  [blur] 2
+INFO 4/16/2026, 6:00:03 PM  4490  [win] blur
+INFO 4/16/2026, 6:00:03 PM  4769  [focus] 2
+INFO 4/16/2026, 6:00:56 PM  57172  [blur] 2
+INFO 4/16/2026, 6:00:56 PM  57172  [win] blur
+INFO 4/16/2026, 6:03:57 PM  238083  [focus] 2
+INFO 4/16/2026, 6:03:59 PM  240231  synced recovery
+INFO 4/16/2026, 6:03:59 PM  240231  ----------------before-quit-----------------
+INFO 4/16/2026, 6:03:59 PM  240231  ------------------will-quit------------------
+INFO 4/16/2026, 6:03:59 PM  240233  -----------------quit------------------
+INFO 4/16/2026, 6:03:59 PM  240233  closeLogging
+INFO 4/17/2026, 2:16:00 PM  59  launch with argv [/usr/share/typora/Typora, --enable-wayland-ime, /run/media/rubait/storage/@personal/important/SKILL.md]
+INFO 4/17/2026, 2:16:00 PM  180  ------------------start------------------
+DEBUG 4/17/2026, 2:16:00 PM  194  before setting 
+DEBUG 4/17/2026, 2:16:00 PM  226  prepDatabase /home/rubait/.config/Typora/profile.data
+DEBUG 4/17/2026, 2:16:00 PM  231  prepDatabase /home/rubait/.config/Typora/history.data
+INFO 4/17/2026, 2:16:00 PM  235  OS is linux 6.19.11-arch1-1
+INFO 4/17/2026, 2:16:00 PM  235  start LM in devVersion=false
+DEBUG 4/17/2026, 2:16:00 PM  252  after setting 
+INFO 4/17/2026, 2:16:00 PM  252  typora version: 1.12.4
+DEBUG 4/17/2026, 2:16:00 PM  253  app.openFile
+INFO 4/17/2026, 2:16:00 PM  254  addRecentDocument
+DEBUG 4/17/2026, 2:16:00 PM  380  added recovery 1 /run/media/rubait/storage/@personal/important/SKILL.md  (0)
+INFO 4/17/2026, 2:16:00 PM  385  [watch L]
+DEBUG 4/17/2026, 2:16:00 PM  385  prepDatabase /home/rubait/.config/Typora/HY2uY8iK1k
+INFO 4/17/2026, 2:16:00 PM  394  no info
+INFO 4/17/2026, 2:16:00 PM  394  ls put SLicense
+DEBUG 4/17/2026, 2:16:00 PM  394  onUnfillLicense
+DEBUG 4/17/2026, 2:16:00 PM  395  trailRemains is 7
+INFO 4/17/2026, 2:16:00 PM  395  [L] installDate is 4/8/2026, trail remains: 7 days
+DEBUG 4/17/2026, 2:16:00 PM  395  onUnfillLicense
+INFO 4/17/2026, 2:16:00 PM  395  [watch L] hasL: false
+user-dict.json not found
+DEBUG 4/17/2026, 2:16:00 PM  484  putAccelerator File -> &File
+DEBUG 4/17/2026, 2:16:00 PM  485  putAccelerator Edit -> &Edit
+DEBUG 4/17/2026, 2:16:00 PM  485  putAccelerator Paragraph -> &Paragraph
+DEBUG 4/17/2026, 2:16:00 PM  485  putAccelerator Format -> F&ormat
+DEBUG 4/17/2026, 2:16:00 PM  485  putAccelerator View -> &View
+DEBUG 4/17/2026, 2:16:00 PM  485  putAccelerator Themes -> &Themes
+DEBUG 4/17/2026, 2:16:00 PM  485  putAccelerator Help -> &Help
+INFO 4/17/2026, 2:16:00 PM  507  synced recovery
+INFO 4/17/2026, 2:16:00 PM  600  [focus] 1
+DEBUG 4/17/2026, 2:16:01 PM  1307  onUnfillLicense
+ERROR 4/17/2026, 2:16:01 PM  1321  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 4/17/2026, 2:16:01 PM  1323  handle document.loadData
+DEBUG 4/17/2026, 2:16:01 PM  1323  document.loadData 0
+ERROR 4/17/2026, 2:16:01 PM  1324  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 4/17/2026, 2:16:01 PM  1389  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 4/17/2026, 2:16:01 PM  1389  [RenderProcess 1][Log] reset NodeMap
+INFO 4/17/2026, 2:16:01 PM  1389  [RenderProcess 1][Log] readContentFrom /run/media/rubait/storage/@personal/important/SKILL.md
+DEBUG 4/17/2026, 2:16:01 PM  1713  added recovery 1 /run/media/rubait/storage/@personal/important/SKILL.md  (0)
+INFO 4/17/2026, 2:16:01 PM  1715  synced recovery
+INFO 4/17/2026, 2:16:02 PM  1791  [RenderProcess 1][Log] onBecomeActive
+INFO 4/17/2026, 2:16:02 PM  1791  [RenderProcess 1][Log] File.activeWindow = true
+DEBUG 4/17/2026, 2:16:19 PM  18916  added recovery 1 /run/media/rubait/storage/@personal/important/SKILL.md "---
+name: omarc... `input.conf`.
+" (11773)
+INFO 4/17/2026, 2:16:19 PM  18917  synced recovery
+DEBUG 4/17/2026, 2:16:23 PM  23102  added recovery 1 /run/media/rubait/storage/@personal/important/SKILL.md "---
+name: omarc... `input.conf`.
+" (11767)
+INFO 4/17/2026, 2:16:23 PM  23103  synced recovery
+DEBUG 4/17/2026, 2:16:25 PM  25047  added recovery 1 /run/media/rubait/storage/@personal/important/SKILL.md "---
+name: omarc... `input.conf`.
+" (11770)
+INFO 4/17/2026, 2:16:25 PM  25048  synced recovery
+DEBUG 4/17/2026, 2:16:31 PM  30847  added recovery 1 /run/media/rubait/storage/@personal/important/SKILL.md "---
+name: omarc... `input.conf`.
+" (11775)
+INFO 4/17/2026, 2:16:31 PM  30849  synced recovery
+DEBUG 4/17/2026, 2:16:34 PM  33770  added recovery 1 /run/media/rubait/storage/@personal/important/SKILL.md "---
+name: omarc... `input.conf`.
+" (11775)
+INFO 4/17/2026, 2:16:34 PM  33771  synced recovery
+DEBUG 4/17/2026, 2:16:37 PM  36880  added recovery 1 /run/media/rubait/storage/@personal/important/SKILL.md "---
+name: omarc... `input.conf`.
+" (11777)
+INFO 4/17/2026, 2:16:37 PM  36881  synced recovery
+DEBUG 4/17/2026, 2:17:02 PM  62000  added recovery 1 /run/media/rubait/storage/@personal/important/SKILL.md "---
+name: omarc... `input.conf`.
+" (11780)
+INFO 4/17/2026, 2:17:02 PM  62001  synced recovery
+INFO 4/17/2026, 2:17:25 PM  84991  synced recovery
+INFO 4/17/2026, 2:17:25 PM  84991  ----------------before-quit-----------------
+INFO 4/17/2026, 2:17:25 PM  84991  ------------------will-quit------------------
+INFO 4/17/2026, 2:17:25 PM  84992  -----------------quit------------------
+INFO 4/17/2026, 2:17:25 PM  84992  closeLogging

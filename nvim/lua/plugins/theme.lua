@@ -1,0 +1,1 @@
+/home/rubait/.config/omarchy/current/theme/neovim.lua

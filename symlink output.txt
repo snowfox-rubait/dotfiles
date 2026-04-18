@@ -1,0 +1,73 @@
+Permissions Size User   Date Modified Name
+drwxr-xr-x     - rubait  7 Apr 21:15  alacritty
+drwxr-xr-x     - rubait 16 Apr 23:25  autostart
+lrwxrwxrwx     - rubait 18 Apr 22:58  Bitwarden -> ../.dotfiles/Bitwarden
+drwx------     - rubait  8 Apr 12:17  BraveSoftware
+drwxr-xr-x     - rubait  7 Apr 21:15  btop
+drwxr-xr-x     - rubait 18 Apr 23:01  chromium
+drwx------     - rubait 18 Apr 22:54  dconf
+drwxr-xr-x     - rubait  7 Apr 21:15  elephant
+drwxr-xr-x     - rubait  7 Apr 21:15  environment.d
+drwxr-xr-x     - rubait  7 Apr 21:15  fastfetch
+drwx------     - rubait  7 Apr 21:22  fcitx
+drwxr-xr-x     - rubait 18 Apr 20:00  fcitx5
+drwxr-xr-x     - rubait  9 Apr 11:33  fish
+drwxr-xr-x     - rubait  7 Apr 21:15  fontconfig
+drwx------     - rubait 13 Apr 14:53  FreeTube
+lrwxrwxrwx     - rubait 18 Apr 22:58  gh -> ../.dotfiles/gh
+drwxr-xr-x     - rubait  7 Apr 21:15  ghostty
+lrwxrwxrwx     - rubait 18 Apr 22:58  git -> ../.dotfiles/git
+drwx------     - rubait  8 Apr 12:17  google-chrome
+drwx------     - rubait  8 Apr 12:17  google-chrome-beta
+drwx------     - rubait  8 Apr 12:17  google-chrome-unstable
+drwx------     - rubait  8 Apr 13:13  gtk-3.0
+drwx------     - rubait 13 Apr 18:20  gtk-4.0
+lrwxrwxrwx     - rubait 18 Apr 22:58  hypr -> ../.dotfiles/hypr
+drwxr-xr-x     - rubait  7 Apr 21:15  hyprland-preview-share-picker
+drwx------     - rubait  7 Apr 21:22  ibus
+drwxr-xr-x     - rubait  7 Apr 21:15  imv
+drwxr-xr-x     - rubait  7 Apr 21:15  kitty
+drwxr-xr-x     - rubait  8 Apr 14:13  lazydocker
+drwxr-xr-x     - rubait  7 Apr 21:15  lazygit
+drwxr-xr-x     - rubait 16 Apr 17:09  libreoffice
+drwxr-xr-x     - rubait  7 Apr 21:15  mako
+drwx------     - rubait  8 Apr 12:17  microsoft-edge-dev
+drwxr-xr-x     - rubait  7 Apr 21:15  mise
+drwxr-xr-x     - rubait 12 Apr 21:29  mpv
+drwxr-xr-x     - rubait 16 Apr 17:12  nautilus
+lrwxrwxrwx     - rubait 18 Apr 22:58  nvim -> ../.dotfiles/nvim
+drwx------     - rubait 18 Apr 18:18  obsidian
+lrwxrwxrwx     - rubait 18 Apr 22:58  omarchy -> ../.dotfiles/omarchy
+drwxr-xr-x     - rubait  7 Apr 21:15  opencode
+drwxr-xr-x     - rubait 17 Apr 18:12  Pinta
+lrwxrwxrwx     - rubait 18 Apr 22:58  pipewire -> ../.dotfiles/pipewire
+drwx------     - rubait  7 Apr 21:22  pulse
+drwx------     - rubait  7 Apr 21:22  qalculate
+drwx------     - rubait  8 Apr 19:57  Signal
+lrwxrwxrwx     - rubait 18 Apr 22:58  SoundWire -> ../.dotfiles/SoundWire
+drwxr-xr-x     - rubait  7 Apr 21:15  swayosd
+drwxr-xr-x     - rubait  7 Apr 21:15  systemd
+lrwxrwxrwx     - rubait 18 Apr 22:58  tmux -> ../.dotfiles/tmux
+drwxr-xr-x     - rubait 17 Apr 14:17  Typora
+drwxr-xr-x     - rubait  9 Apr 11:33  uv
+lrwxrwxrwx     - rubait 18 Apr 22:58  uwsm -> ../.dotfiles/uwsm
+drwxr-xr-x     - rubait 15 Apr 22:21  Vial
+drwx------     - rubait  8 Apr 12:17  vivaldi
+drwx------     - rubait  8 Apr 12:17  vivaldi-snapshot
+lrwxrwxrwx     - rubait 18 Apr 22:58  walker -> ../.dotfiles/walker
+lrwxrwxrwx     - rubait 18 Apr 22:58  waybar -> ../.dotfiles/waybar
+lrwxrwxrwx     - rubait 18 Apr 22:58  wiremix -> ../.dotfiles/wiremix
+lrwxrwxrwx     - rubait 18 Apr 22:58  wireplumber -> ../.dotfiles/wireplumber
+drwxr-xr-x     - rubait  7 Apr 21:15  xournalpp
+drwxr-xr-x     - rubait  8 Apr 13:00  yay
+lrwxrwxrwx     - rubait 18 Apr 22:58  yazi -> ../.dotfiles/yazi
+.rw-r--r--   186 rubait  7 Apr 21:15  brave-flags.conf
+.rw-r--r--   292 rubait  7 Apr 22:05  chromium-flags.conf
+.rw-r--r--  1.4k rubait 13 Apr 14:53  mimeapps.list
+.rw-r--r--  1.8k rubait  7 Apr 21:15  omarchy.ttf
+.rw-r--r--   522 rubait 15 Apr 22:20  QtProject.conf
+.rw-r--r--   768 rubait  7 Apr 21:15  starship.toml
+.rw-r--r--     0 rubait 18 Apr 23:02  'symlink output.txt'
+.rw-------   667 rubait 17 Apr 12:21  user-dirs.dirs
+.rw-r--r--     5 rubait  7 Apr 21:22  user-dirs.locale
+.rw-r--r--   139 rubait  8 Apr 12:52  xdg-terminals.list
