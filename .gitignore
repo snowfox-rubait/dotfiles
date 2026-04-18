@@ -5,3 +5,17 @@
 *_replaced_*
 *_collision_*
 .DS_Store
+# Ignore Obsidian bloat
+**/obsidian/Cache/**
+**/obsidian/Code Cache/**
+**/obsidian/GPUCache/**
+**/obsidian/DawnGraphiteCache/**
+**/obsidian/DawnWebGPUCache/**
+**/obsidian/IndexedDB/**
+**/obsidian/Local Storage/**
+**/obsidian/WebStorage/**
+
+# Ignore logs and lock files
+**/*.log
+**/obsidian/Singleton*
+**/*-wal
