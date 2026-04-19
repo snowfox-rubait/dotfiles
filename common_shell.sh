@@ -17,7 +17,7 @@ if [ -z "$SSH_AUTH_SOCK" ]; then
     ssh-add ~/.ssh/id_ed25519 < /dev/null 2>/dev/null
 fi
 
-# Safely unmount the Obsidian HDD
+# Safely unmount the 2TB HDD
 eject-hdd() {
     if mountpoint -q /mnt/hdd; then
         echo "bullseye Flushing cache..."
@@ -32,5 +32,15 @@ eject-hdd() {
         fi
     else
         echo "ℹ️  Drive is not mounted (or already unmounted)."
+    fi
+}
+
+# this is for nvim so that nvim can use "sudo" and have the configs working.
+sudo() {
+    if [[ "$1" == "nvim" ]]; then
+        shift
+        EDITOR=nvim SUDO_EDITOR=nvim command sudoedit "$@"
+    else
+        command sudo "$@"
     fi
 }
