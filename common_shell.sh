@@ -1,7 +1,8 @@
 # ~/.dotfiles/common_shell.sh
 
-# My Git Dotfile Management
-alias dot='git --git-dir=$HOME/.dotfiles --work-tree=$HOME'
+# The "dot" alias was here by default. I don't use it, so I commented it out.
+# I'm not sure if other system tools depend on it yet, so I haven't deleted it.
+# alias dot='git --git-dir=$HOME/.dotfiles --work-tree=$HOME'
 
 
  gdot() {
