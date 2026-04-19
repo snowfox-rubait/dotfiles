@@ -3,13 +3,35 @@
 # My Git Dotfile Management
 alias dot='git --git-dir=$HOME/.dotfiles --work-tree=$HOME'
 
-gdot() {
+
+ gdot() {
     local msg="${1:-update configs}"
-    git -C ~/.dotfiles status --short  # <--- Add this to see a summary first
+    
+    # 1. Sync Limine config from /boot to your repo (Overwrites old version)
+    # We use sudo to read /boot and chown so git can track it
+    if [ -f /boot/limine.conf ]; then
+        mkdir -p ~/.dotfiles/boot/
+        sudo cp -f /boot/limine.conf ~/.dotfiles/boot/limine.conf
+        sudo chown $(id -u):$(id -g) ~/.dotfiles/boot/limine.conf
+        echo "📥 Limine config synced to repo."
+    fi
+
+    # 2. Show summary of what changed
+    echo "--- Current Status ---"
+    git -C ~/.dotfiles status --short
+    
+    # 3. Standard Git workflow
+    # Note: Ensure your .gitignore is set up to handle the "garbage" files!
     git -C ~/.dotfiles add .
-    git -C ~/.dotfiles commit -m "$msg"
-    git -C ~/.dotfiles push
-    echo "🚀 Dotfiles pushed to GitHub!"
+    
+    # Only commit if there are actually changes to avoid "nothing to commit" errors
+    if ! git -C ~/.dotfiles diff --cached --quiet; then
+        git -C ~/.dotfiles commit -m "$msg"
+        git -C ~/.dotfiles push
+        echo "🚀 Dotfiles pushed to GitHub!"
+    else
+        echo "✨ No changes detected. Nothing to push."
+    fi
 }
 # My SSH Keys
 if [ -z "$SSH_AUTH_SOCK" ]; then
