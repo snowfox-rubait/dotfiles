@@ -67,3 +67,99 @@ sudo() {
         command sudo "$@"
     fi
 }
+
+# --- PORTRAIT MODES ---
+
+# 1. Portrait - Stretched (Full Screen)
+part() {
+    printf "\033[?2026h"
+    chafa -f symbols --symbols=sextant --colors=full --work=9 --stretch --dither=diffusion --size=$(tput cols)x$(tput lines) "$1"
+    printf "\033[?2026l"
+}
+
+# 2. Portrait - Fixed Width (154), Auto Height
+part-n() {
+    printf "\033[?2026h"
+    chafa -f symbols --symbols=sextant --colors=full --work=9 --dither=diffusion --size=154x "$1"
+    printf "\033[?2026l"
+}
+
+# 3. Portrait - Fixed Height (175), Auto Width
+part-l() {
+    printf "\033[?2026h"
+    chafa -f symbols --symbols=sextant --colors=full --work=9 --dither=diffusion --size=x175 "$1"
+    printf "\033[?2026l"
+}
+
+# 4. Portrait - Landscape Width (327), Auto Height
+part-nl() {
+    printf "\033[?2026h"
+    chafa -f symbols --symbols=sextant --colors=full --work=9 --dither=diffusion --size=$(tput cols)x "$1"
+    printf "\033[?2026l"
+}
+
+# --- LANDSCAPE MODES ---
+
+# 5. Landscape - Stretched (Full Screen)
+land() {
+    printf "\033[?2026h"
+    chafa -f symbols --symbols=sextant --colors=full --work=9 --stretch --dither=diffusion --size=$(tput cols)x$(tput lines) "$1"
+    printf "\033[?2026l"
+}
+
+# 6. Landscape - Auto Width, Fixed Height (74)
+land-n() {
+    printf "\033[?2026h"
+    chafa -f symbols --symbols=sextant --colors=full --work=9 --dither=diffusion --size=x$(tput lines) "$1"
+    printf "\033[?2026l"
+}
+
+# 7. Landscape - Fixed Width (327), Auto Height
+land-l() {
+    printf "\033[?2026h"
+    chafa -f symbols --symbols=sextant --colors=full --work=9 --dither=diffusion --size=$(tput cols)x "$1"
+    printf "\033[?2026l"
+}
+
+# --- ULTRA FIDELITY MODES ---
+
+# Portrait Ultra - Max Width (327), Auto Height, Max Detail
+# Use this for the highest possible resolution; requires scrolling.
+part-ultra() {
+    printf "\033[?2026h"
+    chafa -f symbols --symbols all \
+          --colors full \
+          --color-space din99d \
+          --work=9 \
+          --dither fs \
+          --dither-grain 1x1 \
+          --size 1876x "$1"
+    printf "\033[?2026l"
+}
+
+# High-Fidelity Portrait (Adaptive) - Fits standard portrait width
+part-max() {
+    printf "\033[?2026h"
+    chafa -f symbols --symbols all \
+          --colors full \
+          --color-space din99d \
+          --work=9 \
+          --dither fs \
+          --dither-grain 1x1 \
+          --size 154x "$1"
+    printf "\033[?2026l"
+}
+
+# High-Fidelity Landscape (Adaptive) - Fits standard landscape height
+land-max() {
+    printf "\033[?2026h"
+    chafa -f symbols --symbols all \
+          --colors full \
+          --color-space din99d \
+          --work=9 \
+          --dither fs \
+          --dither-grain 1x1 \
+          --size x$(tput lines) "$1"
+    printf "\033[?2026l"
+}
+

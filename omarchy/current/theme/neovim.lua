@@ -1,13 +1,12 @@
 return {
-	{
-		"catppuccin/nvim",
-		name = "catppuccin",
-		priority = 1000,
-	},
-	{
-		"LazyVim/LazyVim",
-		opts = {
-			colorscheme = "catppuccin",
-		},
-	},
+  {
+    "ribru17/bamboo.nvim",
+    priority = 1000,
+  },
+  {
+    "LazyVim/LazyVim",
+    opts = {
+      colorscheme = "bamboo",
+    },
+  },
 }
