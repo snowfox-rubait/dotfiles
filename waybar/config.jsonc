@@ -4,8 +4,16 @@
   "position": "top",
   "spacing": 0,
   "height": 26,
-  "modules-left": ["custom/omarchy", "hyprland/workspaces"],
+  "modules-left": ["custom/omarchy", "hyprland/workspaces", "custom/current-task"],
   "modules-center": ["clock", "custom/update", "custom/voxtype", "custom/screenrecording-indicator", "custom/idle-indicator", "custom/notification-silencing-indicator"],
+  "custom/current-task": {
+    "exec": "TASK=$(cat $HOME/.cache/current_task 2>/dev/null); if [ -n \"$TASK\" ]; then echo \"current task : $TASK\"; else echo \"What's you task today?\"; fi",
+    "format": "{}",
+    "interval": "once",
+    "signal": 12,
+    "on-click": "~/scripts/task/set-current-task.sh",
+    "tooltip": false
+  },
   "modules-right": [
     "group/tray-expander",
     "bluetooth",

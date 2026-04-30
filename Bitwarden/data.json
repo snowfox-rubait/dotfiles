@@ -155,7 +155,7 @@
 				"name": "Vaultwarden",
 				"url": "https://github.com/dani-garcia/vaultwarden"
 			},
-			"utcDate": "2026-04-25T15:32:25.442Z",
+			"utcDate": "2026-04-28T14:25:09.800Z",
 			"environment": {
 				"cloudRegion": null,
 				"vault": "https://vault.rubait.top",
@@ -197,7 +197,7 @@
 		}
 	},
 	"global_account_activity": {
-		"ec003642-8198-4ae7-928a-79de1c4d60d0": "2026-04-26T05:27:42.730Z"
+		"ec003642-8198-4ae7-928a-79de1c4d60d0": "2026-04-28T14:26:21.903Z"
 	},
 	"user_ec003642-8198-4ae7-928a-79de1c4d60d0_environment_environment": {
 		"region": "Self-hosted",
@@ -399,7 +399,7 @@
 	},
 	"user_ec003642-8198-4ae7-928a-79de1c4d60d0_vaultTimeoutSettings_vaultTimeoutAction": "lock",
 	"user_ec003642-8198-4ae7-928a-79de1c4d60d0_vaultTimeoutSettings_vaultTimeout": "onRestart",
-	"user_ec003642-8198-4ae7-928a-79de1c4d60d0_token_accessToken": "2.dMZP30/6c7dEf5PHQCC9XA==|bvkKveNcFCb+mU65i5UQlArwnT3NXCuE4C8ZfLcQ4NbIyniocKSUVOJo9FG7/shQ1pJlwXDt188l6fyUwq14+CXrJOtM9tuCb1bBaSX0//WX+256t3q+1hDRyAXyunGyUebl8sgOaJmUHhbj1+6iW10wi8YnvadvIIeAAT8lJ3jRvCiPf4ckQrk8i5fGxNeMT+gumB/CGBJNBswq5QjAMHEEJuQTxndKgiJBKkMR/LwoW5kpbirK1ZvAYZBWVf0jK46eBR/gTxzA4eiYMUlRmSY7zuLu0AHbZSNnvA5zKsJe2sw0sh4SBFdx8uBWO0wuv93izk9+sOXKZrQta0Z9YSq8h33top2opnDR32c3xmm5/iWYjcnqACTGDTO+5NGI4pIoajG0WO12U4G4yZ4TlejKAr3qb1nytQdQqv8dSV4QwP7Kd2VIs7yvic2os1mE1gMCYxHTYU7edEqklRSXu3XMVI0ug+q/qHKMHvTJLhJCD2sUd2Mi6Nrug9Cgtz7CtgIqyRXoz6NuwRYH2cdok3VgcfuxglCgtYBsgz3dwKqK7DbBkon8800hCvPz47z20trf1f/PdlqQUKGqyavTpjK/cTLbfogahxJlmRkhizAyfamD1iVb6QGS0wKODYd+DmUazm1B9PJ6rv82LhyQYz8W0cFa1zLoH55PF4hnpPwB5rBaKz4snpA2yCwqk5ulwW811Jn8hAZWnKSHV6bFC7A/xll37bqpNV4xs5RjyKM2QMMR/n1bZJO4P9QNtyXm3sNVM6EubJt/KX/9XftP6zBst2xkLxiOrAX1SVnPYzkkHpOswaadIzJhpekAIvjJ2EBF2U4jrvktFfSdMFSCECVP4GIpwt7NoYWUrg0koSSZboo7kyXehM4AzCLKWBihRURnzqeg1eqUrNp53Swy+wJwBlQY7r5YLibIYF1z6sj1m+T5Wv8iJNLAQWOcBNiNDWtXHp6So2SXozyKuQXer1l32fqKG2uBCDMSwTVNYfUJqeOcIbSAKkjav9u4GOYThzxeesjEIay9zSHVrSMR8J7222OTkMFE1YMHTsN+eWiZ0c7ymmpYkYhQ6Qgj72lrWJaQSBr6B/HvbEX0W9/5gMdeV4BL7vEgO1jmlQL5U9TYfQCU9NsL9KfrHM5OuXdwCNWoofizIyXO24NluUvnRBWi0zA7WZCzC9L9eSEZdIsk1FMvhF53vwdYOPXBSN4Hj3ZesYLu3iEYs9B5EqxLaQ==|UJLo1A7Mgkcx9I/Gf88mjxpWxTGl92YZGfDg4cMefTs=",
+	"user_ec003642-8198-4ae7-928a-79de1c4d60d0_token_accessToken": "2.MhlAXeTevcttacNqOelaTA==|hw/Uyn98GQfAYVKRW4qiHGmtTExT/1CIvnHyuRQ79uhhzb3uBg/6r3ykOLLn1yqTd4Lm+vVR8v/x+q12BlNqEwktRc4z5M9H3mZo+W2DkI3cSOTY5D5WDIp4n8lvGX2aT7S8uK1indslSvJ3cR5q9CFRIrV5OqheilLTU+WEjMPuAbarWsphikfHYXV1lTzZa3xdDeNURUZIzxf5Mm2nKUZhC088bDsQ1vtrWRwFdr+yCji9ZeeSzE0NB6VSOe+gKbAKNB9EVZ31whrhsp+NplYj2xmJf90vHNZSUQ8vtub33/xjmAYYajgUuRI7hipREqQGpqEDPFMWZ8tjE2uMUWQL1ORcvbjRserO9dS+Ut+a3bj5+hqiUKnKzTfmHD10pFZo9WDLU2Xd7l15oQvp184U3q+Uf05JNGxUH0dTNpKtxgu1k3LHMexg6NvVpMCHeNIhPvZE0H89NTYZ1EeNNBfmFcmKr0oGohzQNfgziVZE6/q4r7m2/6RNo5AkxVco5ocqXBNobw6dhTt6Emc5ZCfWqOMyqtCEiKHTMc6SDiLCOttXicb//4RBnBx/HCM/QRpRNHNMN/NIy6Nkmv3L8MlV/OeWNfO7k+YBlwjzQW3D1n77mC5cCkcewl+bDXm43G5r/2fCm2KiMx/fbJ0DMWRhzf/SQcS/LEgWaty3n0JZvxMZQ/ulyyaHjNuQmj3/qCiPiFFBbgTNiEVgc9rDDtxuRIzyq5yaJ9G7n5eJBhxn0f3lhShr4GDVHnyWpriEXsLy1dfnTFemvWE5J2X0IuMZGDLqM6Ch3FK2NSVxbqbGQ8SDLB5S/q1ZFA9VQ7T4+b78VIJvYZ7VhAmdByafpFahwPTGuGm9HUEJTTQA1bNydFU0kr3YKIf+lE4PNRdcoXvvmHxXDxGGEaeHjimgt9R5gpUJk9Cxy4GdCkxAGiCAuggYKFMOSk4X1/VrEbFUXaNggHX0VRHmfIIxrm/Iru67/wn6LIzjy6mDEPceRxw2zRpF32vCNCZx4mC6uk8jnl3Xz9lIpTplxWyNf8m+RubdkfxntwibtdFODX6sDBveKdrWFqOnLDtx7MhMKIfWuRwKssEeS07zuFszni/RxMJItTSjbkPCCCzsFW3Wc6SvLHRp05kvHnPFnLWHaKsgKU4xhmp8Svx/wgea+Kar3OHNuy9DMyxhOJXKl2okPRVMKDhbn0sNgoyfK6aPxNxFMkvCMOTkFpbAD7+T8izWzQ==|GhYlDXgOKM3yYtIuRkJWKy7HHnz90bJVwC6ks9tfT7A=",
 	"user_ec003642-8198-4ae7-928a-79de1c4d60d0_kdfConfig_kdfConfig": {
 		"kdfType": 0,
 		"iterations": 600000
@@ -467,7 +467,7 @@
 			"name": "Vaultwarden",
 			"url": "https://github.com/dani-garcia/vaultwarden"
 		},
-		"utcDate": "2026-04-25T15:32:34.511Z",
+		"utcDate": "2026-04-28T14:25:26.189Z",
 		"environment": {
 			"cloudRegion": null,
 			"vault": "https://vault.rubait.top",
@@ -5238,6 +5238,6 @@
 	"user_ec003642-8198-4ae7-928a-79de1c4d60d0_encryptedSend_sendUserEncrypted": {},
 	"user_ec003642-8198-4ae7-928a-79de1c4d60d0_domainSettings_equivalentDomains": [],
 	"user_ec003642-8198-4ae7-928a-79de1c4d60d0_policies_policies": {},
-	"user_ec003642-8198-4ae7-928a-79de1c4d60d0_sync_lastSync": "2026-04-25T15:35:32.369Z",
+	"user_ec003642-8198-4ae7-928a-79de1c4d60d0_sync_lastSync": "2026-04-28T14:25:28.584Z",
 	"user_ec003642-8198-4ae7-928a-79de1c4d60d0_eventCollection_events": []
 }

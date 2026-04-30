@@ -30,6 +30,11 @@
   opacity: 0.5;
 }
 
+#custom-current-task {
+  margin-left: 85px;
+  margin-right: 7.5px;
+}
+
 #cpu,
 #battery,
 #pulseaudio,

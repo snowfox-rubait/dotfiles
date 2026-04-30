@@ -4,11 +4,29 @@ Name=Default
 # Layout
 Default Layout=us
 # Default Input Method
-DefaultIM=keyboard-us
+DefaultIM=keyboard-in-ben-kagapa
 
 [Groups/0/Items/0]
 # Name
 Name=keyboard-us
+# Layout
+Layout=
+
+[Groups/0/Items/1]
+# Name
+Name=keyboard-bd
+# Layout
+Layout=
+
+[Groups/0/Items/2]
+# Name
+Name=keyboard-in-ben
+# Layout
+Layout=
+
+[Groups/0/Items/3]
+# Name
+Name=keyboard-in-ben-kagapa
 # Layout
 Layout=
 
